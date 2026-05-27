@@ -22,3 +22,11 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Generated access keys — SENSITIVE, do not commit
+admin/
+keys.txt
+keys.csv
+keys-kv-bulk.json
+.wrangler/
+.dev.vars

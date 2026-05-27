@@ -1,10 +1,18 @@
 import { Link, useNavigate } from 'react-router-dom'
-import { useStore } from '../lib/store'
+import { useAuth } from '../lib/auth'
 
 export default function TopBar({ score, totalAnswered }) {
-  const player = useStore((s) => s.player)
+  const player = useAuth((s) => s.player)
+  const logout = useAuth((s) => s.logout)
   const navigate = useNavigate()
   const initial = player?.name?.[0]?.toUpperCase() || '?'
+
+  const handleLogout = async () => {
+    if (!window.confirm('Sign out? Your progress is saved.')) return
+    await logout()
+    navigate('/', { replace: true })
+  }
+
   return (
     <div className="top-bar">
       <div className="brand" onClick={() => navigate('/')}>
@@ -28,6 +36,15 @@ export default function TopBar({ score, totalAnswered }) {
           </div>
         )}
         <Link to="/search" className="btn btn-ghost" style={{ padding: '8px 14px' }}>🔎 Search</Link>
+        <button
+          className="btn btn-ghost"
+          style={{ padding: '8px 14px' }}
+          onClick={handleLogout}
+          title="Sign out"
+          aria-label="Sign out"
+        >
+          ⏻
+        </button>
       </div>
     </div>
   )
