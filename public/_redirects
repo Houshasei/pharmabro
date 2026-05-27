@@ -1,1 +1,6 @@
-/*    /index.html   200
+# SPA fallback for client-side routes.
+# Excludes /api/* (Pages Functions) and /assets/* (static bundle) so they
+# don't get rewritten to index.html.
+/api/*       /api/:splat   200
+/assets/*    /assets/:splat 200
+/*           /index.html   200
