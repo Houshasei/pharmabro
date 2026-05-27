@@ -1,10 +1,12 @@
 # Cloudflare Pages config.
-#
-# The KV namespace binding (PHARMABRO_KV) and ADMIN_TOKEN secret are set in the
-# Cloudflare Pages dashboard (Settings → Functions → KV namespace bindings, and
-# Settings → Environment variables). Don't put them here — keeping them in the
-# dashboard avoids committing a project-specific namespace id to the repo.
+# The KV namespace id below was created with `wrangler kv namespace create PHARMABRO_KV`.
+# Bindings in wrangler.toml take precedence over the dashboard, so when this
+# file exists you must declare them here.
 
 name = "pharmabro"
 compatibility_date = "2025-05-01"
 pages_build_output_dir = "dist"
+
+[[kv_namespaces]]
+binding = "PHARMABRO_KV"
+id = "a09d2b2103724d6995c4a221daca8b02"
