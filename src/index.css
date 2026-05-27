@@ -1,0 +1,183 @@
+/* ============ Neon Theme - PharmaQuiz ============ */
+:root {
+  /* Neon palette */
+  --bg: #07020e;
+  --bg-2: #0e0420;
+  --bg-3: #15082e;
+  --surface: rgba(20, 8, 40, 0.7);
+  --surface-2: rgba(30, 12, 60, 0.6);
+  --border: rgba(180, 100, 255, 0.18);
+  --border-strong: rgba(255, 0, 200, 0.55);
+  --text: #d6cce8;
+  --text-dim: #9b8db5;
+  --text-bright: #fff;
+
+  --neon-pink: #ff00d4;
+  --neon-cyan: #00f0ff;
+  --neon-purple: #b347ff;
+  --neon-green: #00ff9d;
+  --neon-yellow: #fff200;
+  --neon-red: #ff2e63;
+  --neon-orange: #ff9100;
+
+  --gradient-1: linear-gradient(135deg, #ff00d4 0%, #00f0ff 100%);
+  --gradient-2: linear-gradient(135deg, #b347ff 0%, #ff00d4 100%);
+  --gradient-3: linear-gradient(135deg, #00ff9d 0%, #00f0ff 100%);
+  --gradient-bg: radial-gradient(at 20% 10%, rgba(179, 71, 255, 0.18), transparent 50%),
+                 radial-gradient(at 80% 20%, rgba(0, 240, 255, 0.14), transparent 50%),
+                 radial-gradient(at 50% 90%, rgba(255, 0, 212, 0.15), transparent 55%),
+                 linear-gradient(180deg, #07020e 0%, #0d0420 100%);
+
+  --shadow-pink: 0 0 12px rgba(255, 0, 212, 0.55), 0 0 30px rgba(255, 0, 212, 0.25);
+  --shadow-cyan: 0 0 12px rgba(0, 240, 255, 0.55), 0 0 30px rgba(0, 240, 255, 0.25);
+  --shadow-green: 0 0 12px rgba(0, 255, 157, 0.55), 0 0 30px rgba(0, 255, 157, 0.25);
+
+  --sans: 'Inter', system-ui, sans-serif;
+  --heading: 'Orbitron', 'Inter', sans-serif;
+
+  font-family: var(--sans);
+  font-size: 16px;
+  line-height: 1.5;
+  color: var(--text);
+  background: var(--bg);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
+
+body {
+  background: var(--gradient-bg);
+  background-attachment: fixed;
+  color: var(--text);
+  overflow-x: hidden;
+}
+
+/* Subtle scanline overlay for retro neon vibe */
+body::after {
+  content: "";
+  pointer-events: none;
+  position: fixed;
+  inset: 0;
+  background-image: repeating-linear-gradient(
+    0deg,
+    rgba(255, 255, 255, 0.012) 0px,
+    rgba(255, 255, 255, 0.012) 1px,
+    transparent 1px,
+    transparent 3px
+  );
+  z-index: 9999;
+  mix-blend-mode: overlay;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--heading);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--text-bright);
+  margin: 0;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  background: none;
+  color: inherit;
+}
+
+input, textarea {
+  font-family: inherit;
+}
+
+a {
+  color: var(--neon-cyan);
+  text-decoration: none;
+  transition: text-shadow 0.2s;
+}
+
+a:hover {
+  text-shadow: 0 0 8px var(--neon-cyan);
+}
+
+::selection {
+  background: var(--neon-pink);
+  color: #000;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--bg-2);
+}
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(180deg, var(--neon-pink), var(--neon-purple));
+  border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(180deg, var(--neon-cyan), var(--neon-pink));
+}
+
+/* Utility classes */
+.neon-text-pink { color: var(--neon-pink); text-shadow: 0 0 8px var(--neon-pink); }
+.neon-text-cyan { color: var(--neon-cyan); text-shadow: 0 0 8px var(--neon-cyan); }
+.neon-text-green { color: var(--neon-green); text-shadow: 0 0 8px var(--neon-green); }
+.neon-text-yellow { color: var(--neon-yellow); text-shadow: 0 0 8px var(--neon-yellow); }
+
+.gradient-text {
+  background: var(--gradient-1);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: transparent;
+}
+
+.gradient-text-2 {
+  background: var(--gradient-2);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes neonPulse {
+  0%, 100% { filter: brightness(1); }
+  50% { filter: brightness(1.2); }
+}
+
+@keyframes glowPulse {
+  0%, 100% { box-shadow: 0 0 12px rgba(255, 0, 212, 0.4), 0 0 30px rgba(255, 0, 212, 0.18); }
+  50% { box-shadow: 0 0 20px rgba(255, 0, 212, 0.7), 0 0 50px rgba(255, 0, 212, 0.3); }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+.fade-in-up {
+  animation: fadeInUp 0.4s ease-out forwards;
+}

@@ -1,0 +1,25 @@
+{
+  "name": "PharmaBro",
+  "short_name": "PharmaBro",
+  "description": "Pharmacy Board Reviewer — SBE & CE quizzes with rationales.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07020e",
+  "theme_color": "#0a0014",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
