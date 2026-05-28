@@ -24,7 +24,7 @@ export default class ErrorBoundary extends Component {
   }
 
   clearStorage = () => {
-    try { localStorage.removeItem('pharmaquiz-state-v1') } catch {}
+    try { localStorage.removeItem('pharmabro-state-v1') } catch {}
     this.reset()
   }
 
