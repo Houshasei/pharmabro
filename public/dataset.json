@@ -107,7 +107,7 @@
     "text": "Recombination www.brexpharmacyreview.com"
    }
   ],
-  "answer": "A",
+  "answer": "B",
   "answer_text": "Freezing",
   "rationale": "Melting Positive heat of fusion, liquefaction, thawing Vaporization Liquid to gas Recombination Plasma to gas; aka deionization"
  },
@@ -135,7 +135,7 @@
     "text": "Reduced"
    }
   ],
-  "answer": "B",
+  "answer": "D",
   "answer_text": "Reduced",
   "rationale": "VDGEROA Valence decrease Gain electrons Reduced Oxidizing agent VILEORA Valence increase Lose electrons Oxidized Reducing agent"
  },
@@ -3295,7 +3295,7 @@
     "text": "V, II, III, I, VI, IV"
    }
   ],
-  "answer": "C",
+  "answer": "D",
   "answer_text": "V, II, III, I, VI, IV",
   "rationale": ""
  },
@@ -18080,11 +18080,11 @@
    },
    {
     "label": "B",
-    "text": ""
+    "text": "C.A. Seydler"
    },
    {
     "label": "C",
-    "text": "A. SeydlerC. F.A. Fluckiger"
+    "text": "F.A. Fluckiger"
    },
    {
     "label": "D",
@@ -21092,63 +21092,67 @@
   "options": [
    {
     "label": "A",
-    "text": "108 capsulesThis drug is available only as asuspension of 150 mg/5 mL. How much"
+    "text": "10 mL"
    },
    {
     "label": "B",
-    "text": "112 capsulessuspension would it be most appropriate"
+    "text": "20 mL"
    },
    {
     "label": "C",
-    "text": "116 capsulesto supply to provide a single dose?"
+    "text": "25 mL"
    },
    {
     "label": "D",
-    "text": "110 capsulesA. 10 mL"
+    "text": "5 mL"
    },
    {
     "label": "E",
-    "text": "114 capsulesB. 20 mLC. 25 mL"
+    "text": "15 mL"
    }
   ],
   "answer": "E",
-  "answer_text": "114 capsulesB. 20 mLC. 25 mL",
-  "rationale": "Dose per administration = 30 kg * 10mg/kg = 300 mg. Given twice daily, total dailyD. 5 mLdose = 600 mg. 600 mg / 150 mg per capsule = 4capsules/day. For 4 weeks (28 days), totalE. 15 mLcapsules = 4 * 28 ="
+  "answer_text": "15 mL",
+  "rationale": "Dose = 50 kg * 9 mg/kg = 450 mg. Volume = (450 mg / 150 mg) * 5 mL = 15 mL. IC COLLEGE, INC. ons – Area 3 (Updated)"
  },
  {
   "id": "SBE_MOD_3_3",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 3,
-  "question": "Which of the following is the correctin drinking water in rural areas. Forvolume of a 5% w/v solution required tocompound Z, the safe limit for drinkingsupply 150 mg of the active ingredient?water is 9 ppm. Analytical results for the",
+  "question": "Which of the following is the correct volume of a 5% w/v solution required to supply 150 mg of the active ingredient?",
   "options": [
    {
     "label": "A",
-    "text": "30 mLamount of compound Z in the drinkingwater of various villages are given below."
+    "text": "30 mL"
    },
    {
     "label": "B",
-    "text": "3 mLWhich ONE of the following villages has"
+    "text": "3 mL"
    },
    {
     "label": "C",
-    "text": "5 mLdrinking water that is safe to drink?"
+    "text": "5 mL"
    },
    {
     "label": "D",
-    "text": "20 mLA. Toome:"
+    "text": "20 mL"
+   },
+   {
+    "label": "E",
+    "text": "2 mL"
    }
   ],
   "answer": "B",
-  "answer_text": "3 mLWhich ONE of the following villages has",
-  "rationale": "5% w/v = 5g/100mL = 5000mg/100mL= 50mg/mL. Volume = 150 mg / 50 mg/mL = 3D. Blackhill: 0.3 mg/LmL.E. Magheracloone: 0.041% w/vRationale: 9 ppm is equivalent to 9 mg/L. A ="
+  "answer_text": "3 mL",
+  "rationale": "5% w/v = 5g/100mL = 5000mg/100mL = 50mg/mL. Volume = 150 mg / 50 mg/mL = 3 mL."
  },
  {
   "id": "SBE_MOD_3_4",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 4,
-  "question": "A 10-year-old boy (weighing 30 kg) has24.6 mg/L (unsafe). B = 90 mg/L (unsafe). C = 10been prescribed Rimactane 150 mgmg/L (unsafe). D = 0.3 mg/L (safe). E = 410 mg/Lcapsules (rifampicin) for the management(unsafe).of brucellosis at a dose of 10 mg/kg twicedaily for 4 weeks. How many of thesecapsules should be dispensed for this2. A patient weighing 50 kg requires apatient to cover the 4 weeks?single oral daily dose of 9 mg/kg of drug Y.",
+  "question": "A 10-year-old boy (weighing 30 kg) has been prescribed Rimactane 150 mg capsules (rifampicin) for the management of brucellosis at a dose of 10 mg/kg twice daily for 4 weeks. How many of these capsules should be dispensed for this patient to cover the 4 weeks?",
   "options": [
    {
     "label": "A",
@@ -21173,23 +21177,39 @@
   ],
   "answer": "B",
   "answer_text": "112 capsules",
-  "rationale": "Dose per administration = 30 kg * 10mg/kg = 300 mg. Given twice daily, total dailyD. 5 mLdose = 600 mg. 600 mg / 150 mg per capsule = 4capsules/day. For 4 weeks (28 days), totalE. 15 mLcapsules = 4 * 28 = 112.Rationale: Dose = 50 kg * 9 mg/kg = 450 mg.Volume = (450 mg / 150 mg) * 5 mL = 15 mL."
+  "rationale": "Dose per administration = 30 kg * 10 mg/kg = 300 mg. Given twice daily, total daily dose = 600 mg. 600 mg / 150 mg per capsule = 4 capsules/day. For 4 weeks (28 days), total capsules = 4 * 28 = 112."
  },
  {
   "id": "SBE_MOD_3_5",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 5,
-  "question": "A patient weighing 70 kg is prescribed8. Someone is trying to court you. Youdrug C to be given intravenously at a dosesaid you like tall people. He said that he isof 4 mg/kg per h. Drug C is available as a6 foot 2 inches. This is how much in10 mg/2 mL intravenous solution. Whichcentimeters?of the following is a suitable flow rate for",
+  "question": "A patient weighing 70 kg is prescribed drug C to be given intravenously at a dose of 4 mg/kg per h. Drug C is available as a 10 mg/2 mL intravenous solution. Which of the following is a suitable flow rate for administering drug C to this patient?",
   "options": [
    {
     "label": "A",
-    "text": "BullshemsC."
+    "text": "1 mL/min"
+   },
+   {
+    "label": "B",
+    "text": "14 mL/h"
+   },
+   {
+    "label": "C",
+    "text": "56 mL/h"
+   },
+   {
+    "label": "D",
+    "text": "2 mL/min"
+   },
+   {
+    "label": "E",
+    "text": "28 mL/h"
    }
   ],
   "answer": "C",
-  "answer_text": "110 cmB. 14 mL/h",
-  "rationale": "6 feet 2 inches = 74 inches. 74 inches* 2.54 cm/inch = 187.96 cm.Rationale: Dose = 70 kg * 4 mg/kg/hr = 280 mg/hr. Concentration = 10 mg / 2 mL = 5 mg/mL.Rate = 280 mg/hr / 5 mg/mL = 56 mL/hr."
+  "answer_text": "56 mL/h",
+  "rationale": "Dose = 70 kg * 4 mg/kg/hr = 280 mg/ hr. Concentration = 10 mg / 2 mL = 5 mg/mL. Rate = 280 mg/hr / 5 mg/mL = 56 mL/hr."
  },
  {
   "id": "SBE_MOD_3_6",
@@ -21200,28 +21220,28 @@
   "options": [
    {
     "label": "A",
-    "text": "16,000 mLA. 3 mg"
+    "text": "16,000 mL"
    },
    {
     "label": "B",
-    "text": "160 mLB. 30 mg"
+    "text": "160 mL"
    },
    {
     "label": "C",
-    "text": "1.6 mLC. 0.003 mg"
+    "text": "1.6 mL"
    },
    {
     "label": "D",
-    "text": "1,600 mLD. 0.3 mg"
+    "text": "1,600 mL"
    },
    {
     "label": "E",
-    "text": "16 mLE. 0.03 mg"
+    "text": "16 mL"
    }
   ],
   "answer": "A",
-  "answer_text": "16,000 mLA. 3 mg",
-  "rationale": "875 cL = 8.75 L. Total volume = 7.25L + 8.75 L = 16 L = 16,000 mL.Rationale: Amount = Concentration * Volume =0.5 mg/mL * 0.6 mL = 0.3 mg.7. 1 teacupful"
+  "answer_text": "16,000 mL",
+  "rationale": "875 cL = 8.75 L. Total volume = 7.25 L + 8.75 L = 16 L = 16,000 mL."
  },
  {
   "id": "SBE_MOD_3_7",
@@ -21260,64 +21280,64 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 8,
-  "question": "Someone is trying to court you. Youdrug C to be given intravenously at a dosesaid you like tall people. He said that he isof 4 mg/kg per h. Drug C is available as a6 foot 2 inches. This is how much in10 mg/2 mL intravenous solution. Whichcentimeters?of the following is a suitable flow rate for",
+  "question": "Someone is trying to court you. You said you like tall people. He said that he is 6 foot 2 inches. This is how much in centimeters?",
   "options": [
    {
     "label": "A",
-    "text": "187.96 cmadministering drug C to this patient?"
+    "text": "187.96 cm"
    },
    {
     "label": "B",
-    "text": "182.88 cmA. 1 mL/min"
+    "text": "182.88 cm"
    },
    {
     "label": "C",
-    "text": "110 cmB. 14 mL/h"
+    "text": "110 cm"
    },
    {
     "label": "D",
-    "text": "185.42 cmC. 56 mL/h"
+    "text": "185.42 cm"
    },
    {
     "label": "E",
-    "text": "175.26 cmD. 2 mL/minE. 28 mL/h"
+    "text": "175.26 cm"
    }
   ],
   "answer": "A",
-  "answer_text": "187.96 cmadministering drug C to this patient?",
-  "rationale": "6 feet 2 inches = 74 inches. 74 inches* 2.54 cm/inch = 187.96 cm.Rationale: Dose = 70 kg * 4 mg/kg/hr = 280 mg/hr. Concentration = 10 mg / 2 mL = 5 mg/mL.Rate = 280 mg/hr / 5 mg/mL = 56 mL/hr."
+  "answer_text": "187.96 cm",
+  "rationale": "6 feet 2 inches = 74 inches. 74 inches * 2.54 cm/inch = 187.96 cm."
  },
  {
   "id": "SBE_MOD_3_9",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 9,
-  "question": "A Pediatric vitamin drug productcontains the equivalent of 0.5 mg offluoride ion in each mL. How many mg of6. Add 7.25 L and 875 cL.fluoride ion would be provided by adropper which delivers 0.6 mL?",
+  "question": "A Pediatric vitamin drug product contains the equivalent of 0.5 mg of fluoride ion in each mL. How many mg of fluoride ion would be provided by a dropper which delivers 0.6 mL?",
   "options": [
    {
     "label": "A",
-    "text": "16,000 mLA. 3 mg"
+    "text": "3 mg"
    },
    {
     "label": "B",
-    "text": "160 mLB. 30 mg"
+    "text": "30 mg"
    },
    {
     "label": "C",
-    "text": "1.6 mLC. 0.003 mg"
+    "text": "0.003 mg"
    },
    {
     "label": "D",
-    "text": "1,600 mLD. 0.3 mg"
+    "text": "0.3 mg"
    },
    {
     "label": "E",
-    "text": "16 mLE. 0.03 mg"
+    "text": "0.03 mg"
    }
   ],
   "answer": "D",
-  "answer_text": "1,600 mLD. 0.3 mg",
-  "rationale": "875 cL = 8.75 L. Total volume = 7.25L + 8.75 L = 16 L = 16,000 mL.Rationale: Amount = Concentration * Volume =0.5 mg/mL * 0.6 mL = 0.3 mg.7. 1 teacupful10. If 3 tablets contain 975 milligrams ofA. 5 mLaspirin, how many tablets should be ableB. 60 mLto contain 3900 milligrams?C. 240 mLA. 15 tabletsD. 8 mLB. 13 tabletsE. 120 mLC. 11 tabletsD. 14 tabletsRationale: In standard household measurementsused in pharmacy, 1 teacupful is generallyE. 12 tabletsconsidered to be 120 mL (4 fluid ounces).Rationale: Amount per tablet = 975 mg / 3 = 325mg/tablet. Tablets needed = 3900 mg / 325 mg/tab = 12 tablets."
+  "answer_text": "0.3 mg",
+  "rationale": "Amount = Concentration * Volume = 0.5 mg/mL * 0.6 mL = 0.3 mg."
  },
  {
   "id": "SBE_MOD_3_10",
@@ -21328,60 +21348,124 @@
   "options": [
    {
     "label": "A",
-    "text": "5 mLaspirin, how many tablets should be able"
+    "text": "15 tablets"
    },
    {
     "label": "B",
-    "text": "60 mLto contain 3900 milligrams?"
+    "text": "13 tablets"
    },
    {
     "label": "C",
-    "text": "240 mLA. 15 tablets"
+    "text": "11 tablets"
    },
    {
     "label": "D",
-    "text": "8 mLB. 13 tablets"
+    "text": "14 tablets"
    },
    {
     "label": "E",
-    "text": "120 mLC. 11 tabletsD. 14 tablets"
+    "text": "12 tablets"
    }
   ],
   "answer": "E",
-  "answer_text": "120 mLC. 11 tabletsD. 14 tablets",
-  "rationale": "In standard household measurementsused in pharmacy, 1 teacupful is generallyE. 12 tabletsconsidered to be 120 mL (4 fluid ounces).Rationale: Amount per tablet = 975 mg / 3 = 325mg/tablet. Tablets needed = 3900 mg / 325 mg/tab = 12 tablets."
+  "answer_text": "12 tablets",
+  "rationale": "Amount per tablet = 975 mg / 3 = 325 mg/tablet. Tablets needed = 3900 mg / 325 mg/ tab = 12 tablets."
  },
  {
   "id": "SBE_MOD_3_11",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 11,
-  "question": "A 50-mL pycnometer is found to weighFor numbers 14-15, the usual adult dose120 g when empty, 171 g when filled withfor minoxidil is 10 milligrams a day.water, and 160 g when filled with anCalculate the dose for a 7-year old patient.unknown liquid. Calculate the specific14. Use Young's Rule.gravity of the unknown liquid.",
+  "question": "A 50-mL pycnometer is found to weigh 120 g when empty, 171 g when filled with water, and 160 g when filled with an unknown liquid. Calculate the specific gravity of the unknown liquid.",
   "options": [
    {
     "label": "A",
-    "text": "3.68 mgA. 0.87"
+    "text": "0.87"
    },
    {
     "label": "B",
-    "text": "5.6 mgB. 0.96"
+    "text": "0.96"
    },
    {
     "label": "C",
-    "text": "4.87 mgC. 0.75"
+    "text": "0.75"
    },
    {
     "label": "D",
-    "text": "3.33 mgD. 0.78"
+    "text": "0.78"
    },
    {
     "label": "E",
-    "text": "7.66 mgE. 0.12"
+    "text": "0.12"
    }
   ],
   "answer": "D",
-  "answer_text": "3.33 mgD. 0.78",
-  "rationale": "Young's Rule = [Age / (Age + 12)] *Adult Dose = [7 / (7 + 12)] * 10 = (7/19) * 10 =Rationale: Weight of water = 171g - 120g = 51g.3.68 mg.Weight of unknown liquid = 160g - 120g = 40g.Specific Gravity = (Weight of liquid) / (Weight ofequal volume of water) = 40 / 51 = 0.784.15. Use Cowling's Rule.A. 3.68 mg12. BSB. 5.6 mgA. BullshemsC. 4.87 mgB. Body SucroseD. 3.33 mgC. Breath ShortnessE. 7.66 mgD. Blood sugarE. Bowel SyncopeeRationale: Cowling's Rule = [Age at next birthday/ 24] * Adult Dose = [8 / 24] * 10 = (1/3) * 10 =3.33 mg.Rationale: In medical and pharmacy charting, BSmost commonly stands for Blood Sugar (or bowelsounds).16. 30 minims -> fluidounceA. 0.062513. AZTB. 0.0345A. AzithromycinC. 0.0502B. AmpicillinD. 0.0234C. AcetazolamideE. 0.4321D. ZidovudineE. None of the aboveRationale: 1 fluidounce = 480 minims. 30 minims/ 480 minims/fl.oz. = 0.0625 fluidounces.Rationale: AZT stands for Azidothymidine, thealternative name for the antiretroviral medicationZidovudine."
+  "answer_text": "0.78",
+  "rationale": "Weight of water = 171g - 120g = 51g. Weight of unknown liquid = 160g - 120g = 40g. Specific Gravity = (Weight of liquid) / (Weight of equal volume of water) = 40 / 51 = 0.784."
+ },
+ {
+  "id": "SBE_MOD_3_12",
+  "module": "SBE MOD 3",
+  "category": "SBE",
+  "number": 12,
+  "question": "BS",
+  "options": [
+   {
+    "label": "A",
+    "text": "Bullshems"
+   },
+   {
+    "label": "B",
+    "text": "Body Sucrose"
+   },
+   {
+    "label": "C",
+    "text": "Breath Shortness"
+   },
+   {
+    "label": "D",
+    "text": "Blood sugar"
+   },
+   {
+    "label": "E",
+    "text": "Bowel Syncopee"
+   }
+  ],
+  "answer": "D",
+  "answer_text": "Blood sugar",
+  "rationale": "In medical and pharmacy charting, BS most commonly stands for Blood Sugar (or bowel sounds)."
+ },
+ {
+  "id": "SBE_MOD_3_13",
+  "module": "SBE MOD 3",
+  "category": "SBE",
+  "number": 13,
+  "question": "AZT",
+  "options": [
+   {
+    "label": "A",
+    "text": "Azithromycin"
+   },
+   {
+    "label": "B",
+    "text": "Ampicillin"
+   },
+   {
+    "label": "C",
+    "text": "Acetazolamide"
+   },
+   {
+    "label": "D",
+    "text": "Zidovudine"
+   },
+   {
+    "label": "E",
+    "text": "None of the above"
+   }
+  ],
+  "answer": "D",
+  "answer_text": "Zidovudine",
+  "rationale": "AZT stands for Azidothymidine, the alternative name for the antiretroviral medication Zidovudine. For numbers 14-15, the usual adult dose for minoxidil is 10 milligrams a day. Calculate the dose for a 7-year old patient."
  },
  {
   "id": "SBE_MOD_3_14",
@@ -21392,28 +21476,28 @@
   "options": [
    {
     "label": "A",
-    "text": "3.68 mgA. 0.87"
+    "text": "3.68 mg"
    },
    {
     "label": "B",
-    "text": "5.6 mgB. 0.96"
+    "text": "5.6 mg"
    },
    {
     "label": "C",
-    "text": "4.87 mgC. 0.75"
+    "text": "4.87 mg"
    },
    {
     "label": "D",
-    "text": "3.33 mgD. 0.78"
+    "text": "3.33 mg"
    },
    {
     "label": "E",
-    "text": "7.66 mgE. 0.12"
+    "text": "7.66 mg"
    }
   ],
   "answer": "A",
-  "answer_text": "3.68 mgA. 0.87",
-  "rationale": "Young's Rule = [Age / (Age + 12)] *Adult Dose = [7 / (7 + 12)] * 10 = (7/19) * 10 =Rationale: Weight of water = 171g - 120g = 51g.3.68 mg.Weight of unknown liquid = 160g - 120g = 40g.Specific Gravity = (Weight of liquid) / (Weight ofequal volume of water) = 40 / 51 = 0.784."
+  "answer_text": "3.68 mg",
+  "rationale": "Young's Rule = [Age / (Age + 12)] * Adult Dose = [7 / (7 + 12)] * 10 = (7/19) * 10 = 3.68 mg."
  },
  {
   "id": "SBE_MOD_3_15",
@@ -21425,11 +21509,27 @@
    {
     "label": "A",
     "text": "3.68 mg"
+   },
+   {
+    "label": "B",
+    "text": "5.6 mg"
+   },
+   {
+    "label": "C",
+    "text": "4.87 mg"
+   },
+   {
+    "label": "D",
+    "text": "3.33 mg"
+   },
+   {
+    "label": "E",
+    "text": "7.66 mg"
    }
   ],
   "answer": "D",
-  "answer_text": "3.33 mgC. Breath Shortness",
-  "rationale": "Cowling's Rule = [Age at next birthday/ 24] * Adult Dose = [8 / 24] * 10 = (1/3) * 10 =3.33 mg.Rationale: In medical and pharmacy charting, BSmost commonly stands for Blood Sugar (or bowelsounds).16. 30 minims -> fluidounceA. 0.062513. AZTB. 0.0345A. AzithromycinC. 0.0502B. AmpicillinD. 0.0234C. AcetazolamideE. 0.4321D. ZidovudineE. None of the aboveRationale: 1 fluidounce = 480 minims. 30 minims/ 480 minims/fl.oz. = 0.0625 fluidounces.Rationale: AZT stands for Azidothymidine, thealternative name for the antiretroviral medicationZidovudine."
+  "answer_text": "3.33 mg",
+  "rationale": "Cowling's Rule = [Age at next birthday / 24] * Adult Dose = [8 / 24] * 10 = (1/3) * 10 = 3.33 mg."
  },
  {
   "id": "SBE_MOD_3_16",
@@ -21472,28 +21572,28 @@
   "options": [
    {
     "label": "A",
-    "text": "10^6A. meter"
+    "text": "10^6"
    },
    {
     "label": "B",
-    "text": "10^4B. mole"
+    "text": "10^4"
    },
    {
     "label": "C",
-    "text": "10^12C. liter"
+    "text": "10^12"
    },
    {
     "label": "D",
-    "text": "10^3D. candela"
+    "text": "10^3"
    },
    {
     "label": "E",
-    "text": "10^9E. gram"
+    "text": "10^9"
    }
   ],
   "answer": "A",
-  "answer_text": "10^6A. meter",
-  "rationale": "The metric prefix 'Mega-' designates afactor of one million, or 10^6.Rationale: The SI base unit for mass is thekilogram (kg), not the gram.18. 10 grams -> grainFor numbers 21-24, 196g of sulfuric acidA. 146.23was dissolved in water resulting in 1000B. 105.29mL of solution. MW of sulfuric acid is 98 g/mol.C. 153.8521. What is the mole of sulfuric acid?D. 103.50A. 1E. 150.32B. 3Rationale: Using the standard equivalent of 1C. 5grain ≈ 64.8 mg (or roughly 65 mg). 10,000 mg /D. 265 mg/grain = 153.846 (closest is 153.85).E. 419. 500 nm -> millimeterRationale: Moles = Mass / Molecular Weight =196 g / 98 g/mol = 2 moles.A. 0.05B. 0.000522. What is the molarity?C. 5A. 1D. 0.005B. 3E. 0.00005C. 5Rationale: 500 nanometers = 500 * 10^-9D. 2meters. 1 millimeter = 10^-3 meters. Thus, 500nm = 500 * 10^-6 mm = 0.0005 mm.E. 4Rationale: Molarity (M) = moles of solute / Litersof solution = 2 moles / 1.0 L = 2 M."
+  "answer_text": "10^6",
+  "rationale": "The metric prefix 'Mega-' designates a factor of one million, or 10^6."
  },
  {
   "id": "SBE_MOD_3_18",
@@ -21564,32 +21664,32 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 20,
-  "question": "Which of the following is not an SIunit?",
+  "question": "Which of the following is not an SI unit?",
   "options": [
    {
     "label": "A",
-    "text": "10^6A. meter"
+    "text": "meter"
    },
    {
     "label": "B",
-    "text": "10^4B. mole"
+    "text": "mole"
    },
    {
     "label": "C",
-    "text": "10^12C. liter"
+    "text": "liter"
    },
    {
     "label": "D",
-    "text": "10^3D. candela"
+    "text": "candela"
    },
    {
     "label": "E",
-    "text": "10^9E. gram"
+    "text": "gram"
    }
   ],
   "answer": "E",
-  "answer_text": "10^9E. gram",
-  "rationale": "The metric prefix 'Mega-' designates afactor of one million, or 10^6.Rationale: The SI base unit for mass is thekilogram (kg), not the gram.18. 10 grams -> grainFor numbers 21-24, 196g of sulfuric acidA. 146.23was dissolved in water resulting in 1000B. 105.29mL of solution. MW of sulfuric acid is 98 g/mol.C. 153.8521. What is the mole of sulfuric acid?D. 103.50A. 1E. 150.32B. 3Rationale: Using the standard equivalent of 1C. 5grain ≈ 64.8 mg (or roughly 65 mg). 10,000 mg /D. 265 mg/grain = 153.846 (closest is 153.85).E. 419. 500 nm -> millimeterRationale: Moles = Mass / Molecular Weight =196 g / 98 g/mol = 2 moles.A. 0.05B. 0.000522. What is the molarity?C. 5A. 1D. 0.005B. 3E. 0.00005C. 5Rationale: 500 nanometers = 500 * 10^-9D. 2meters. 1 millimeter = 10^-3 meters. Thus, 500nm = 500 * 10^-6 mm = 0.0005 mm.E. 4Rationale: Molarity (M) = moles of solute / Litersof solution = 2 moles / 1.0 L = 2 M."
+  "answer_text": "gram",
+  "rationale": "The SI base unit for mass is the kilogram (kg), not the gram. For numbers 21-24, 196g of sulfuric acid was dissolved in water resulting in 1000 mL of solution. MW of sulfuric acid is 98 g/ mol."
  },
  {
   "id": "SBE_MOD_3_21",
@@ -21752,6 +21852,38 @@
   "rationale": "The inscription is the principal part of the prescription, containing the names and quantities of the prescribed ingredients or drugs."
  },
  {
+  "id": "SBE_MOD_3_26",
+  "module": "SBE MOD 3",
+  "category": "SBE",
+  "number": 26,
+  "question": "Signa",
+  "options": [
+   {
+    "label": "A",
+    "text": "Rx"
+   },
+   {
+    "label": "B",
+    "text": "Amoxicillin 250mg/5mL Susp"
+   },
+   {
+    "label": "C",
+    "text": "Dispense and make to 60 mL"
+   },
+   {
+    "label": "D",
+    "text": "Sig: Take 1 teaspoonful TID for 7 days"
+   },
+   {
+    "label": "E",
+    "text": "None of the above"
+   }
+  ],
+  "answer": "D",
+  "answer_text": "Sig: Take 1 teaspoonful TID for 7 days",
+  "rationale": "The signa (or transcription) provides the directions for the patient to follow when taking the medication."
+ },
+ {
   "id": "SBE_MOD_3_27",
   "module": "SBE MOD 3",
   "category": "SBE",
@@ -21760,63 +21892,79 @@
   "options": [
    {
     "label": "A",
-    "text": "1Gr."
+    "text": "0.705"
+   },
+   {
+    "label": "B",
+    "text": "0.951"
+   },
+   {
+    "label": "C",
+    "text": "0.794"
+   },
+   {
+    "label": "D",
+    "text": "0.687"
+   },
+   {
+    "label": "E",
+    "text": "0.864"
    }
   ],
   "answer": "B",
-  "answer_text": "3alcohol, sp. gr. 0.",
-  "rationale": "Normality (N) = Molarity * Factor = 2E. 0.864M * 2 = 4 N.Rationale: Mass of glycerin = 800 * 1.25 =1000g. Mass of water = 900 * 1 = 900g. Mass ofFor numbers 25-26, refer to thealcohol = 2000 * 0.81 = 1620g. Total Mass =prescription below:3520g. Total Volume = 800 + 900 + 2000 =Rx3700mL. Specific gravity = Total Mass / TotalVolume = 3520 / 3700 = 0.951.Amoxicillin 250mg/5mL SuspDispense and make to 60 mLSig: Take 1 teaspoonful TID for 7 days25. InscriptionA. RxB. Amoxicillin 250mg/5mL SuspC. Dispense and make to 60 mLD. Sig: Take 1 teaspoonful TID for 7 daysE. None of the aboveRationale: The inscription is the principal part ofthe prescription, containing the names andquantities of the prescribed ingredients or drugs."
+  "answer_text": "0.951",
+  "rationale": "Mass of glycerin = 800 * 1.25 = 1000g. Mass of water = 900 * 1 = 900g. Mass of alcohol = 2000 * 0.81 = 1620g. Total Mass = 3520g. Total Volume = 800 + 900 + 2000 = 3700mL. Specific gravity = Total Mass / Total Volume = 3520 / 3700 = 0.951."
  },
  {
   "id": "SBE_MOD_3_28",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 28,
-  "question": "Select the components of an30. What should be done with theerroneous prescription.prescription in #29?",
+  "question": "Select the components of an erroneous prescription.",
   "options": [
    {
     "label": "A",
-    "text": "When only the brand name is written inA. Fill, keep, reportthe prescription."
+    "text": "When only the brand name is written in"
    },
    {
     "label": "B",
-    "text": "Fill, keep, do not reportB. When the generic name is NOT legible,"
+    "text": "When the generic name is NOT legible,"
    },
    {
     "label": "C",
-    "text": "Do not fill, do not keep, do not reportand brand name is legible."
+    "text": "When the brand name and generic name"
    },
    {
     "label": "D",
-    "text": "Do not fill, keep, reportC. When the brand name and generic nameare not legible."
+    "text": "When the generic name is enclosed"
    },
    {
     "label": "E",
-    "text": "Do not fill, do not keep, reportD. When the generic name is enclosed"
+    "text": "None of the above"
    }
   ],
   "answer": "D",
-  "answer_text": "Do not fill, keep, reportC. When the brand name and generic nameare not legible.",
-  "rationale": "For erroneous prescriptions, thewithin a parenthesis, and brand name ispharmacist shall fill the prescription, keep anot.record, and report it to the nearest DOH office.E. None of the aboveRationale: Under the Philippine Generics Act, an31. Miconazole is a potent inhibitor oferroneous prescription occurs when the genericCYP2C9. What interaction would possiblyname is in parentheses while the brand name ishappen with its topical preparation isnot, or the brand name precedes the genericcombined with another drug that isname.metabolized by CYP2C9?A. Plasma concentration of another drug will29. When the brand name is preceded byincrease.the generic name, the classification is:B. There is a pharmacodynamic interactionto be expected.A. ErroneousC. Metabolism of another drug will increase.B. ImpossibleD. Two of the above.C. CorrectE. None of the above.D. ViolativeE. None of the aboveRationale: Because it is a topical preparation, itis not easily absorbed systemically; thus, aRationale: This format is classified as anclinically significant pharmacokinetic interactionerroneous prescription.via CYP2C9 is unlikely.32. Enzyme inducer:A. St. John's wortB. Grapefruit juiceC. KetoconazoleD. Valproic AcidE. IsoniazidRationale: St. John's wort is a well-known potentinducer of cytochrome P450 enzymes (especiallyCYP3A4). The others listed are known inhibitors."
+  "answer_text": "When the generic name is enclosed",
+  "rationale": "Under the Philippine Generics Act, an erroneous prescription occurs when the generic name is in parentheses while the brand name is not, or the brand name precedes the generic name."
  },
  {
   "id": "SBE_MOD_3_29",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 29,
-  "question": "When the brand name is preceded byincrease.the generic name, the classification is:B. There is a pharmacodynamic interactionto be expected.",
+  "question": "When the brand name is preceded by the generic name, the classification is:",
   "options": [
    {
     "label": "A",
-    "text": "ErroneousC. Metabolism of another drug will increase."
+    "text": "Erroneous"
    },
    {
     "label": "B",
-    "text": "ImpossibleD. Two of the above."
+    "text": "Impossible"
    },
    {
     "label": "C",
-    "text": "CorrectE. None of the above."
+    "text": "Correct"
    },
    {
     "label": "D",
@@ -21828,15 +21976,15 @@
    }
   ],
   "answer": "A",
-  "answer_text": "ErroneousC. Metabolism of another drug will increase.",
-  "rationale": "Because it is a topical preparation, itis not easily absorbed systemically; thus, aRationale: This format is classified as anclinically significant pharmacokinetic interactionerroneous prescription.via CYP2C9 is unlikely."
+  "answer_text": "Erroneous",
+  "rationale": "This format is classified as an erroneous prescription."
  },
  {
   "id": "SBE_MOD_3_30",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 30,
-  "question": "What should be done with theerroneous prescription.prescription in #29?",
+  "question": "What should be done with the prescription in #29?",
   "options": [
    {
     "label": "A",
@@ -21861,18 +22009,34 @@
   ],
   "answer": "A",
   "answer_text": "Fill, keep, report",
-  "rationale": "For erroneous prescriptions, thewithin a parenthesis, and brand name ispharmacist shall fill the prescription, keep anot.record, and report it to the nearest DOH office.E. None of the aboveRationale: Under the Philippine Generics Act, an"
+  "rationale": "For erroneous prescriptions, the pharmacist shall fill the prescription, keep a record, and report it to the nearest DOH office."
  },
  {
   "id": "SBE_MOD_3_31",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 31,
-  "question": "Miconazole is a potent inhibitor oferroneous prescription occurs when the genericCYP2C9. What interaction would possiblyname is in parentheses while the brand name ishappen with its topical preparation isnot, or the brand name precedes the genericcombined with another drug that isname.metabolized by CYP2C9?",
+  "question": "Miconazole is a potent inhibitor of CYP2C9. What interaction would possibly happen with its topical preparation is combined with another drug that is metabolized by CYP2C9?",
   "options": [
    {
     "label": "A",
     "text": "Plasma concentration of another drug will"
+   },
+   {
+    "label": "B",
+    "text": "There is a pharmacodynamic interaction"
+   },
+   {
+    "label": "C",
+    "text": "Metabolism of another drug will increase."
+   },
+   {
+    "label": "D",
+    "text": "Two of the above."
+   },
+   {
+    "label": "E",
+    "text": "None of the above."
    }
   ],
   "answer": "E",
@@ -21932,7 +22096,7 @@
    },
    {
     "label": "D",
-    "text": "EstrogenB. I, III"
+    "text": "Estrogen"
    },
    {
     "label": "E",
@@ -21941,7 +22105,7 @@
   ],
   "answer": "A",
   "answer_text": "Ciprofloxacin",
-  "rationale": "Ciprofloxacin is a known potentD. I, II, IIIinhibitor of CYP1A2, which can increase thelevels of drugs like theophylline. CarbamazepineE. None of the aboveis an inducer.Rationale: MAOIs prevent the breakdown oftyramine in the gut and liver (III). The absorbedtyramine causes a massive release and34. Manuel is an illicit drug user. Heaccumulation of catecholamines (pressor amines)secretly takes amphetamine regardless of(I), leading to a hypertensive crisis (II).the adverse drug effects. As a pharmacystudent, he was informed that he needs toundergo a mandatory drug test before36. Describe the interaction betweenbeing allowed to participate in hispenicillin and probenecid.internships. Utilizing his knowledge indrug interactions, which of the followingA. Penicillin blocks the passive tubularshould he take right before the drug test?secretion resulting in a decrease in the half-life of probenecidA. Ammonium chlorideB. Penicillin blocks the passive tubularB. Vitamin Csecretion resulting in an increase in the half-C. Sodium bicarbonatelife of probenecidD. Two of the aboveC. Probenecid blocks the active tubularsecretion resulting in an increase in the half-E. None of the abovelife of paracetamol.D. Probenecid blocks the active tubularRationale: Amphetamine is a weak base. Toenhance its renal excretion and clear it from thesecretion resulting in a decrease in the half-body faster, the urine should be acidified. Bothlife of paracetamol.Ammonium chloride and Vitamin C (ascorbicE. None of the aboveacid) are urinary acidifiers.Rationale: The correct mechanism is thatProbenecid blocks the active tubular secretion ofPenicillin, resulting in an INCREASE in the half-life of penicillin. Since this specific option is notprovided (options C and D mention paracetamol),the answer is None of the above."
+  "rationale": "Ciprofloxacin is a known potent inhibitor of CYP1A2, which can increase the levels of drugs like theophylline. Carbamazepine is an inducer."
  },
  {
   "id": "SBE_MOD_3_34",
@@ -21984,35 +22148,35 @@
   "options": [
    {
     "label": "A",
-    "text": "CiprofloxacinI. Accumulation of pressor aminesII. Increase in blood pressure"
+    "text": "I, II"
    },
    {
     "label": "B",
-    "text": "MeprobamateIII. Non-metabolism of tyramine"
+    "text": "I, III"
    },
    {
     "label": "C",
-    "text": "TolbutamideA. I, II"
+    "text": "II, III"
    },
    {
     "label": "D",
-    "text": "EstrogenB. I, III"
+    "text": "I, II, III"
    },
    {
     "label": "E",
-    "text": "CarbamazepineC. II, III"
+    "text": "None of the above"
    }
   ],
   "answer": "D",
-  "answer_text": "EstrogenB. I, III",
-  "rationale": "Ciprofloxacin is a known potentD. I, II, IIIinhibitor of CYP1A2, which can increase thelevels of drugs like theophylline. CarbamazepineE. None of the aboveis an inducer.Rationale: MAOIs prevent the breakdown oftyramine in the gut and liver (III). The absorbedtyramine causes a massive release and"
+  "answer_text": "I, II, III",
+  "rationale": "MAOIs prevent the breakdown of tyramine in the gut and liver (III). The absorbed tyramine causes a massive release and accumulation of catecholamines (pressor amines) (I), leading to a hypertensive crisis (II)."
  },
  {
   "id": "SBE_MOD_3_36",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 36,
-  "question": "Describe the interaction betweenbeing allowed to participate in hispenicillin and probenecid.internships. Utilizing his knowledge indrug interactions, which of the following",
+  "question": "Describe the interaction between penicillin and probenecid.",
   "options": [
    {
     "label": "A",
@@ -22024,7 +22188,7 @@
    },
    {
     "label": "C",
-    "text": "Sodium bicarbonatelife of probenecid"
+    "text": "Probenecid blocks the active tubular"
    },
    {
     "label": "D",
@@ -22037,18 +22201,18 @@
   ],
   "answer": "E",
   "answer_text": "None of the above",
-  "rationale": "Amphetamine is a weak base. Toenhance its renal excretion and clear it from thesecretion resulting in a decrease in the half-body faster, the urine should be acidified. Bothlife of paracetamol.Ammonium chloride and Vitamin C (ascorbicE. None of the aboveacid) are urinary acidifiers.Rationale: The correct mechanism is thatProbenecid blocks the active tubular secretion ofPenicillin, resulting in an INCREASE in the half-life of penicillin. Since this specific option is notprovided (options C and D mention paracetamol),the answer is None of the above."
+  "rationale": "The correct mechanism is that Probenecid blocks the active tubular secretion of Penicillin, resulting in an INCREASE in the half- life of penicillin. Since this specific option is not provided (options C and D mention paracetamol), the answer is None of the above."
  },
  {
   "id": "SBE_MOD_3_37",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 37,
-  "question": "Ibuprofen + _______ -> Decreased40. Sotalol + _______ -> QT Prolongationexcretion of _______",
+  "question": "Ibuprofen + _______ -> Decreased excretion of _______",
   "options": [
    {
     "label": "A",
-    "text": "FlecainideA. Digoxin"
+    "text": "Digoxin"
    },
    {
     "label": "B",
@@ -22056,59 +22220,59 @@
    },
    {
     "label": "C",
-    "text": "PromethazineC. Lithium"
+    "text": "Lithium"
    },
    {
     "label": "D",
-    "text": "NicardipineD. Aspirin"
+    "text": "Aspirin"
    },
    {
     "label": "E",
-    "text": "HaloperidolE. Penicillin"
+    "text": "Penicillin"
    }
   ],
   "answer": "C",
-  "answer_text": "PromethazineC. Lithium",
-  "rationale": "Sotalol is a Class III antiarrhythmicRationale: NSAIDs like ibuprofen reduce renalthat prolongs the QT interval. Haloperidol is ablood flow via prostaglandin inhibition, whichtypical antipsychotic notorious for also prolongingsignificantly decreases the renal clearance ofthe QT interval. Combining them increases thelithium, risking lithium toxicity.risk of Torsades de Pointes."
+  "answer_text": "Lithium",
+  "rationale": "NSAIDs like ibuprofen reduce renal blood flow via prostaglandin inhibition, which significantly decreases the renal clearance of lithium, risking lithium toxicity."
  },
  {
   "id": "SBE_MOD_3_38",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 38,
-  "question": "Antagonism41. FS is a 49-year old patient was rushedto the emergency room presenting with",
+  "question": "Antagonism",
   "options": [
    {
     "label": "A",
-    "text": "1 + 1 = 2the following symptoms: DOB, dizziness,"
+    "text": "1 + 1 = 2"
    },
    {
     "label": "B",
-    "text": "1 + 1 = 0and fainting. Upon examination, it wasrevealed that she is currently experiencing"
+    "text": "1 + 1 = 0"
    },
    {
     "label": "C",
-    "text": "1 + 1 = -1irregular heartbeats. The physician"
+    "text": "1 + 1 = -1"
    },
    {
     "label": "D",
-    "text": "1 + 1 > 2explains that this is most likely due to thepartial or complete blockage of electrical"
+    "text": "1 + 1 > 2"
    },
    {
     "label": "E",
-    "text": "1 + 0 = 2signals to the heart. Aside fromparacetamol and verapamil, which of the"
+    "text": "1 + 0 = 2"
    }
   ],
   "answer": "B",
-  "answer_text": "1 + 1 = 0and fainting. Upon examination, it wasrevealed that she is currently experiencing",
-  "rationale": "Antagonism occurs when the effect offollowing medications is she most likelytwo drugs together is less than the sum of theirtaking as well?individual effects, essentially neutralizing oneanother (conceptually represented as 1+1=0).A. LosartanB. Phenoxybenzamine39. When taken with alcohol, the patientC. Amobarbitalwill experience an additive hypoglycemicD. Chlorpropamideeffect.E. MetoprololA. CetirizineB. DiazepamRationale: Verapamil is a non-dihydropyridinecalcium channel blocker that slows AVC. Chlorpropamideconduction. When combined with a beta-blockerlike Metoprolol, it causes an additive negativeD. Phenobarbitaldromotropic effect leading to severe AV block orE. Chloral hydratebradycardia.Rationale: Chlorpropamide is a first-generationsulfonylurea used for diabetes. Combining it withalcohol can lead to an additive hypoglycemiceffect, as well as a disulfiram-like reaction."
+  "answer_text": "1 + 1 = 0",
+  "rationale": "Antagonism occurs when the effect of two drugs together is less than the sum of their individual effects, essentially neutralizing one another (conceptually represented as 1+1=0)."
  },
  {
   "id": "SBE_MOD_3_39",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 39,
-  "question": "When taken with alcohol, the patientC. Amobarbitalwill experience an additive hypoglycemicD. Chlorpropamideeffect.E. Metoprolol",
+  "question": "When taken with alcohol, the patient will experience an additive hypoglycemic effect.",
   "options": [
    {
     "label": "A",
@@ -22117,11 +22281,23 @@
    {
     "label": "B",
     "text": "Diazepam"
+   },
+   {
+    "label": "C",
+    "text": "Chlorpropamide"
+   },
+   {
+    "label": "D",
+    "text": "Phenobarbital"
+   },
+   {
+    "label": "E",
+    "text": "Chloral hydrate"
    }
   ],
   "answer": "C",
   "answer_text": "Chlorpropamide",
-  "rationale": "Verapamil is a non-dihydropyridinecalcium channel blocker that slows AVC. Chlorpropamideconduction. When combined with a beta-blockerlike Metoprolol, it causes an additive negativeD. Phenobarbitaldromotropic effect leading to severe AV block orE. Chloral hydratebradycardia.Rationale: Chlorpropamide is a first-generationsulfonylurea used for diabetes. Combining it withalcohol can lead to an additive hypoglycemiceffect, as well as a disulfiram-like reaction."
+  "rationale": "Chlorpropamide is a first-generation sulfonylurea used for diabetes. Combining it with alcohol can lead to an additive hypoglycemic effect, as well as a disulfiram-like reaction."
  },
  {
   "id": "SBE_MOD_3_40",
@@ -22132,11 +22308,11 @@
   "options": [
    {
     "label": "A",
-    "text": "FlecainideA. Digoxin"
+    "text": "Flecainide"
    },
    {
     "label": "B",
-    "text": "CaptoprilB. Indomethacin"
+    "text": "Captopril"
    },
    {
     "label": "C",
@@ -22153,7 +22329,7 @@
   ],
   "answer": "E",
   "answer_text": "Haloperidol",
-  "rationale": "Sotalol is a Class III antiarrhythmicRationale: NSAIDs like ibuprofen reduce renalthat prolongs the QT interval. Haloperidol is ablood flow via prostaglandin inhibition, whichtypical antipsychotic notorious for also prolongingsignificantly decreases the renal clearance ofthe QT interval. Combining them increases thelithium, risking lithium toxicity.risk of Torsades de Pointes."
+  "rationale": "Sotalol is a Class III antiarrhythmic that prolongs the QT interval. Haloperidol is a typical antipsychotic notorious for also prolonging the QT interval. Combining them increases the risk of Torsades de Pointes."
  },
  {
   "id": "SBE_MOD_3_41",
@@ -22164,27 +22340,27 @@
   "options": [
    {
     "label": "A",
-    "text": "1 + 1 = 2the following symptoms: DOB, dizziness,"
+    "text": "Losartan"
    },
    {
     "label": "B",
-    "text": "1 + 1 = 0and fainting. Upon examination, it wasrevealed that she is currently experiencing"
+    "text": "Phenoxybenzamine"
    },
    {
     "label": "C",
-    "text": "1 + 1 = -1irregular heartbeats. The physician"
+    "text": "Amobarbital"
    },
    {
     "label": "D",
-    "text": "1 + 1 > 2explains that this is most likely due to thepartial or complete blockage of electrical"
+    "text": "Chlorpropamide"
    },
    {
     "label": "E",
-    "text": "1 + 0 = 2signals to the heart. Aside fromparacetamol and verapamil, which of the"
+    "text": "Metoprolol"
    }
   ],
   "answer": "E",
-  "answer_text": "1 + 0 = 2signals to the heart. Aside fromparacetamol and verapamil, which of the",
+  "answer_text": "Metoprolol",
   "rationale": "Verapamil is a non-dihydropyridine calcium channel blocker that slows AV conduction. When combined with a beta-blocker like Metoprolol, it causes an additive negative dromotropic effect leading to severe AV block or bradycardia."
  },
  {
@@ -22217,7 +22393,7 @@
   ],
   "answer": "A",
   "answer_text": "Dihydropteroate synthase",
-  "rationale": "Sulfonamides competitively inhibitRationale: Augmentin is the widely used branddihydropteroate synthase, the bacterial enzymename for the combination of Amoxicillin andresponsible for incorporating PABA intoClavulanate (clavulanic acid).dihydropteroic acid, the immediate precursor offolic acid. Trimethoprim inhibits dihydrofolatereductase."
+  "rationale": "Sulfonamides competitively inhibit dihydropteroate synthase, the bacterial enzyme responsible for incorporating PABA into dihydropteroic acid, the immediate precursor of folic acid. Trimethoprim inhibits dihydrofolate reductase."
  },
  {
   "id": "SBE_MOD_3_43",
@@ -22228,7 +22404,7 @@
   "options": [
    {
     "label": "A",
-    "text": "AmpicillinE. None of the above"
+    "text": "Ampicillin"
    },
    {
     "label": "B",
@@ -22237,11 +22413,19 @@
    {
     "label": "C",
     "text": "Levodopa"
+   },
+   {
+    "label": "D",
+    "text": "Amoxicillin"
+   },
+   {
+    "label": "E",
+    "text": "Ceftazidime"
    }
   ],
   "answer": "C",
   "answer_text": "Levodopa",
-  "rationale": "Acetylcholine is the primaryneurotransmitter of the parasympathetic nervousD. Amoxicillinsystem, acting on muscarinic and nicotinicE. Ceftazidimecholinergic receptors.Rationale: Sinemet is a combination of Levodopa(dopamine precursor) and Carbidopa (dopaFor nos. 47-50, match the drug with itsdecarboxylase inhibitor).antidote or protective agent."
+  "rationale": "Sinemet is a combination of Levodopa (dopamine precursor) and Carbidopa (dopa decarboxylase inhibitor)."
  },
  {
   "id": "SBE_MOD_3_44",
@@ -22284,7 +22468,7 @@
   "options": [
    {
     "label": "A",
-    "text": "AmpicillinA. Dihydropteroate synthase"
+    "text": "Ampicillin"
    },
    {
     "label": "B",
@@ -22292,7 +22476,7 @@
    },
    {
     "label": "C",
-    "text": "LevodopaC. Dihydrofolate synthase"
+    "text": "Levodopa"
    },
    {
     "label": "D",
@@ -22305,42 +22489,146 @@
   ],
   "answer": "D",
   "answer_text": "Amoxicillin",
-  "rationale": "Sulfonamides competitively inhibitRationale: Augmentin is the widely used branddihydropteroate synthase, the bacterial enzymename for the combination of Amoxicillin andresponsible for incorporating PABA intoClavulanate (clavulanic acid).dihydropteroic acid, the immediate precursor offolic acid. Trimethoprim inhibits dihydrofolatereductase."
+  "rationale": "Augmentin is the widely used brand name for the combination of Amoxicillin and Clavulanate (clavulanic acid)."
  },
  {
   "id": "SBE_MOD_3_46",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 46,
-  "question": "Epinephrine acts on adrenergicreceptors while acetylcholine act onFor nos. 43-45, select the drug paired with",
+  "question": "Epinephrine acts on adrenergic receptors while acetylcholine act on",
   "options": [
    {
     "label": "A",
-    "text": "Glucocorticoid receptorsthe correct beta-lactamase inhibitor or"
+    "text": "Glucocorticoid receptors"
    },
    {
     "label": "B",
-    "text": "Dopamine receptorsadjunct."
+    "text": "Dopamine receptors"
    },
    {
     "label": "C",
     "text": "Muscarinic receptors"
+   },
+   {
+    "label": "D",
+    "text": "Type-L Calcium channels"
+   },
+   {
+    "label": "E",
+    "text": "None of the above"
    }
   ],
   "answer": "C",
   "answer_text": "Muscarinic receptors",
-  "rationale": "Acetylcholine is the primaryneurotransmitter of the parasympathetic nervousD. Amoxicillinsystem, acting on muscarinic and nicotinicE. Ceftazidimecholinergic receptors.Rationale: Sinemet is a combination of Levodopa(dopamine precursor) and Carbidopa (dopaFor nos. 47-50, match the drug with itsdecarboxylase inhibitor).antidote or protective agent."
+  "rationale": "Acetylcholine is the primary neurotransmitter of the parasympathetic nervous system, acting on muscarinic and nicotinic cholinergic receptors."
+ },
+ {
+  "id": "SBE_MOD_3_47",
+  "module": "SBE MOD 3",
+  "category": "SBE",
+  "number": 47,
+  "question": "Diazepam",
+  "options": [
+   {
+    "label": "A",
+    "text": "MESNA"
+   },
+   {
+    "label": "B",
+    "text": "Folinic acid"
+   },
+   {
+    "label": "C",
+    "text": "Amifostine"
+   },
+   {
+    "label": "D",
+    "text": "Neostigmine"
+   },
+   {
+    "label": "E",
+    "text": "Romazicon"
+   }
+  ],
+  "answer": "E",
+  "answer_text": "Romazicon",
+  "rationale": "Romazicon (Flumazenil) is a competitive benzodiazepine receptor antagonist, used as an antidote for benzodiazepine overdose (like Diazepam)."
+ },
+ {
+  "id": "SBE_MOD_3_48",
+  "module": "SBE MOD 3",
+  "category": "SBE",
+  "number": 48,
+  "question": "Cisplatin",
+  "options": [
+   {
+    "label": "A",
+    "text": "MESNA"
+   },
+   {
+    "label": "B",
+    "text": "Folinic acid"
+   },
+   {
+    "label": "C",
+    "text": "Amifostine"
+   },
+   {
+    "label": "D",
+    "text": "Neostigmine"
+   },
+   {
+    "label": "E",
+    "text": "Romazicon"
+   }
+  ],
+  "answer": "C",
+  "answer_text": "Amifostine",
+  "rationale": "Amifostine is a cytoprotective adjuvant used to reduce the cumulative renal toxicity associated with repeated administration of Cisplatin."
+ },
+ {
+  "id": "SBE_MOD_3_49",
+  "module": "SBE MOD 3",
+  "category": "SBE",
+  "number": 49,
+  "question": "Atropine",
+  "options": [
+   {
+    "label": "A",
+    "text": "MESNA"
+   },
+   {
+    "label": "B",
+    "text": "Folinic acid"
+   },
+   {
+    "label": "C",
+    "text": "Amifostine"
+   },
+   {
+    "label": "D",
+    "text": "Neostigmine"
+   },
+   {
+    "label": "E",
+    "text": "Romazicon"
+   }
+  ],
+  "answer": "D",
+  "answer_text": "Neostigmine",
+  "rationale": "Atropine is an anticholinergic. Reversible cholinesterase inhibitors like Physostigmine (and sometimes Neostigmine in certain contexts, though physostigmine crosses the BBB) are used to counter anticholinergic toxicity."
  },
  {
   "id": "SBE_MOD_3_50",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 50,
-  "question": "Ifosfamidedepleting protective prostaglandins in the gastric",
+  "question": "Ifosfamide",
   "options": [
    {
     "label": "A",
-    "text": "MESNAmucosa, which commonly leads to ulcers andbleeding. Taking them with food helps minimize"
+    "text": "MESNA"
    },
    {
     "label": "B",
@@ -22360,7 +22648,7 @@
    }
   ],
   "answer": "A",
-  "answer_text": "MESNAmucosa, which commonly leads to ulcers andbleeding. Taking them with food helps minimize",
+  "answer_text": "MESNA",
   "rationale": "MESNA (2-mercaptoethane sulfonate sodium) is used prophylactically to prevent hemorrhagic cystitis caused by ifosfamide and cyclophosphamide."
  },
  {
@@ -22368,23 +22656,23 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 51,
-  "question": "Aminoglycosides + ________ ->Paralysis",
+  "question": "Aminoglycosides + ________ -> Paralysis",
   "options": [
    {
     "label": "A",
-    "text": "MESNAA. Digoxin"
+    "text": "Digoxin"
    },
    {
     "label": "B",
-    "text": "Folinic acidB. Furosemide"
+    "text": "Furosemide"
    },
    {
     "label": "C",
-    "text": "AmifostineC. Mannitol"
+    "text": "Mannitol"
    },
    {
     "label": "D",
-    "text": "NeostigmineD. Rocuronium"
+    "text": "Rocuronium"
    },
    {
     "label": "E",
@@ -22392,24 +22680,40 @@
    }
   ],
   "answer": "D",
-  "answer_text": "NeostigmineD. Rocuronium",
-  "rationale": "Amifostine is a cytoprotective adjuvantused to reduce the cumulative renal toxicityRationale: Aminoglycosides inhibit prejunctionalassociated with repeated administration ofacetylcholine release and reduce postjunctionalCisplatin.sensitivity, thereby potentiating the effects ofneuromuscular blockers like Rocuronium, leadingto prolonged paralysis."
+  "answer_text": "Rocuronium",
+  "rationale": "Aminoglycosides inhibit prejunctional acetylcholine release and reduce postjunctional sensitivity, thereby potentiating the effects of neuromuscular blockers like Rocuronium, leading to prolonged paralysis."
  },
  {
   "id": "SBE_MOD_3_52",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 52,
-  "question": "One of the most important patientcounselling points for this drug is to takeB. Folinic acidit with food. This is because the drug,C. Amifostineespecially with long-term use, can causeD. Neostigminegastrointestinal ulcers and bleeding. Whatis this drug?E. Romazicon",
+  "question": "One of the most important patient counselling points for this drug is to take it with food. This is because the drug, especially with long-term use, can cause gastrointestinal ulcers and bleeding. What is this drug?",
   "options": [
    {
     "label": "A",
     "text": "Ethambutol"
+   },
+   {
+    "label": "B",
+    "text": "Isoniazid"
+   },
+   {
+    "label": "C",
+    "text": "Griseofulvin"
+   },
+   {
+    "label": "D",
+    "text": "NSAIDs"
+   },
+   {
+    "label": "E",
+    "text": "Thioridazine"
    }
   ],
   "answer": "D",
   "answer_text": "NSAIDs",
-  "rationale": "Atropine is an anticholinergic.B. IsoniazidReversible cholinesterase inhibitors likePhysostigmine (and sometimes Neostigmine inC. Griseofulvincertain contexts, though physostigmine crossesD. NSAIDsthe BBB) are used to counter anticholinergictoxicity.E. ThioridazineRationale: Non-steroidal anti-inflammatory drugs(NSAIDs) inhibit cyclooxygenase (COX-1),"
+  "rationale": "Non-steroidal anti-inflammatory drugs (NSAIDs) inhibit cyclooxygenase (COX-1), depleting protective prostaglandins in the gastric mucosa, which commonly leads to ulcers and bleeding. Taking them with food helps minimize acute gastric irritation."
  },
  {
   "id": "SBE_MOD_3_53",
@@ -22480,7 +22784,7 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 55,
-  "question": "Remedy when a solid substance failsthe metabolism and biliary clearance ofto dissolve in a liquidlevothyroxine, necessitating even higher doses tomaintain euthyroidism.",
+  "question": "Remedy when a solid substance fails to dissolve in a liquid",
   "options": [
    {
     "label": "A",
@@ -22512,32 +22816,32 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 56,
-  "question": "When glibenclamide is taken with59. Penicillamine is the antidote for:phenylbutazone, which of the following is",
+  "question": "When glibenclamide is taken with phenylbutazone, which of the following is affected?",
   "options": [
    {
     "label": "A",
-    "text": "Penicillinaffected?"
+    "text": "Absorption"
    },
    {
     "label": "B",
-    "text": "CyclophosphamideA. Absorption"
+    "text": "Metabolism"
    },
    {
     "label": "C",
-    "text": "ParacetamolB. Metabolism"
+    "text": "Liberation"
    },
    {
     "label": "D",
-    "text": "DoxorubicinC. Liberation"
+    "text": "Distribution"
    },
    {
     "label": "E",
-    "text": "None of the aboveD. DistributionE. Excretion"
+    "text": "Excretion"
    }
   ],
   "answer": "D",
-  "answer_text": "DoxorubicinC. Liberation",
-  "rationale": "Penicillamine is a chelating agentprimarily used as an antidote for heavy metalpoisoning (like copper, lead, mercury) and inRationale: Phenylbutazone is highly protein-Wilson's disease. None of the listed drugs apply.bound and can displace glibenclamide from itsbinding sites on albumin. This represents aninteraction at the Distribution phase, leading totransiently higher free levels of the sulfonylurea."
+  "answer_text": "Distribution",
+  "rationale": "Phenylbutazone is highly protein- bound and can displace glibenclamide from its binding sites on albumin. This represents an interaction at the Distribution phase, leading to transiently higher free levels of the sulfonylurea."
  },
  {
   "id": "SBE_MOD_3_57",
@@ -22548,11 +22852,11 @@
   "options": [
    {
     "label": "A",
-    "text": "AdditionC. Activated charcoal"
+    "text": "Addition"
    },
    {
     "label": "B",
-    "text": "AntagonismD. Penicillamine"
+    "text": "Antagonism"
    },
    {
     "label": "C",
@@ -22568,15 +22872,15 @@
    }
   ],
   "answer": "A",
-  "answer_text": "AdditionC. Activated charcoal",
-  "rationale": "Deferoxamine, Dimercaprol,Penicillamine, and EDTA all act as chelatorsRationale: Both benzodiazepines and first-(forming chemical complexes with metals).generation antihistamines possess CNSActivated charcoal works via physical adsorption,depressant properties. Their concurrent usetrapping toxins within its porous surface.results in an additive sedative effect (1+1=2)."
+  "answer_text": "Addition",
+  "rationale": "Both benzodiazepines and first- generation antihistamines possess CNS depressant properties. Their concurrent use results in an additive sedative effect (1+1=2)."
  },
  {
   "id": "SBE_MOD_3_58",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 58,
-  "question": "Which of the following is taken withTall Man Lettering for dobutamine andfatty food?dopamine?",
+  "question": "Which of the following is taken with fatty food?",
   "options": [
    {
     "label": "A",
@@ -22584,11 +22888,11 @@
    },
    {
     "label": "B",
-    "text": "AcarboseB. doBUTamine, doPAMine"
+    "text": "Acarbose"
    },
    {
     "label": "C",
-    "text": "MetoprololC. dobutAMINE, dopAMINE"
+    "text": "Metoprolol"
    },
    {
     "label": "D",
@@ -22601,7 +22905,7 @@
   ],
   "answer": "D",
   "answer_text": "Griseofulvin",
-  "rationale": "Griseofulvin is highly lipophilic but hasRationale: The ISMP recommends DOBUTaminevery poor aqueous solubility. Taking it with a high-and DOPamine to highlight the distinct parts offat meal significantly enhances its gastrointestinalthese look-alike, sound-alike (LASA) drug names.absorption."
+  "rationale": "Griseofulvin is highly lipophilic but has very poor aqueous solubility. Taking it with a high- fat meal significantly enhances its gastrointestinal absorption."
  },
  {
   "id": "SBE_MOD_3_59",
@@ -22612,7 +22916,7 @@
   "options": [
    {
     "label": "A",
-    "text": "Penicillinaffected?"
+    "text": "Penicillin"
    },
    {
     "label": "B",
@@ -22633,30 +22937,46 @@
   ],
   "answer": "E",
   "answer_text": "None of the above",
-  "rationale": "Penicillamine is a chelating agentprimarily used as an antidote for heavy metalpoisoning (like copper, lead, mercury) and inRationale: Phenylbutazone is highly protein-Wilson's disease. None of the listed drugs apply.bound and can displace glibenclamide from itsbinding sites on albumin. This represents aninteraction at the Distribution phase, leading totransiently higher free levels of the sulfonylurea."
+  "rationale": "Penicillamine is a chelating agent primarily used as an antidote for heavy metal poisoning (like copper, lead, mercury) and in Wilson's disease. None of the listed drugs apply."
  },
  {
   "id": "SBE_MOD_3_60",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 60,
-  "question": "Which of the following antidotes doesnot work via complexation?",
+  "question": "Which of the following antidotes does not work via complexation?",
   "options": [
    {
     "label": "A",
     "text": "Deferoxamine"
+   },
+   {
+    "label": "B",
+    "text": "Dimercaprol"
+   },
+   {
+    "label": "C",
+    "text": "Activated charcoal"
+   },
+   {
+    "label": "D",
+    "text": "Penicillamine"
+   },
+   {
+    "label": "E",
+    "text": "EDTA"
    }
   ],
   "answer": "C",
-  "answer_text": "Activated charcoalB. Antagonism",
-  "rationale": "Deferoxamine, Dimercaprol,Penicillamine, and EDTA all act as chelatorsRationale: Both benzodiazepines and first-(forming chemical complexes with metals).generation antihistamines possess CNSActivated charcoal works via physical adsorption,depressant properties. Their concurrent usetrapping toxins within its porous surface.results in an additive sedative effect (1+1=2)."
+  "answer_text": "Activated charcoal",
+  "rationale": "Deferoxamine, Dimercaprol, Penicillamine, and EDTA all act as chelators (forming chemical complexes with metals). Activated charcoal works via physical adsorption, trapping toxins within its porous surface."
  },
  {
   "id": "SBE_MOD_3_61",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 61,
-  "question": "Which of the following is the correct58. Which of the following is taken withTall Man Lettering for dobutamine andfatty food?dopamine?",
+  "question": "Which of the following is the correct Tall Man Lettering for dobutamine and dopamine?",
   "options": [
    {
     "label": "A",
@@ -22681,62 +23001,62 @@
   ],
   "answer": "A",
   "answer_text": "DOBUTamine, DOPamine",
-  "rationale": "Griseofulvin is highly lipophilic but hasRationale: The ISMP recommends DOBUTaminevery poor aqueous solubility. Taking it with a high-and DOPamine to highlight the distinct parts offat meal significantly enhances its gastrointestinalthese look-alike, sound-alike (LASA) drug names.absorption."
+  "rationale": "The ISMP recommends DOBUTamine and DOPamine to highlight the distinct parts of these look-alike, sound-alike (LASA) drug names."
  },
  {
   "id": "SBE_MOD_3_62",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 62,
-  "question": "The purpose of the Pharmacy and64. This is the gold standard for drugTherapeutics Committee are the following:distribution systems.",
+  "question": "The purpose of the Pharmacy and Therapeutics Committee are the following:",
   "options": [
    {
     "label": "A",
-    "text": "Advisory and educationalA. Floor stock system"
+    "text": "Advisory and educational"
    },
    {
     "label": "B",
-    "text": "Individual Prescription Order SystemB. Advisory and planning"
+    "text": "Advisory and planning"
    },
    {
     "label": "C",
-    "text": "Combination of A & BC. Educational and planning"
+    "text": "Educational and planning"
    },
    {
     "label": "D",
-    "text": "Dispensing and inventoryD. Unit dose dispensing system"
+    "text": "Dispensing and inventory"
    },
    {
     "label": "E",
-    "text": "None of the aboveE. None of the above"
+    "text": "None of the above"
    }
   ],
   "answer": "A",
-  "answer_text": "Advisory and educationalA. Floor stock system",
-  "rationale": "The P&T Committee serves twoRationale: The Unit Dose Dispensing Systemprimary purposes: advisory (evaluating and(UDDS) is considered the gold standard inselecting drugs for the formulary) and educationalhospitals because it minimizes medication errors,(providing information on safe drug use toimproves inventory control, and optimizeshealthcare staff).pharmacist clinical involvement.63. When the peripheral facility identifies65. Which of the following is NOT a high-the drug quantities to be requisitionedalert medication?from the procurement unit or warehouse,A. Vasoactive peptidesthis is known as?B. InsulinA. Push systemC. ChlorpheniramineB. UDDSD. HeparinC. Direct PurchasingE. MorphineD. Pull systemE. Two of the aboveRationale: High-alert medications bear aheightened risk of causing significant patientharm when used in error. Chlorpheniramine (anRationale: In a pull system, inventory isantihistamine) is a standard medication, whereasrequested (pulled) by the lower-level facilitiesInsulin, Heparin, Morphine, and vasoactive drugsbased on their actual consumption and currentare strictly monitored.needs.66. Who administers the drug?A. PharmacistB. NurseC. TherapistD. PhysicianE. MedtechRationale: In a hospital setting, after thephysician prescribes and the pharmacistdispenses, it is traditionally the responsibility ofthe registered nurse to administer the medicationto the patient. For #67-70, identify the drug distribution70. Prone to pilferagesystem:A. Floor stock system67. Elimination of Drug ReturnsB. Individual Prescription Order SystemA. Floor stock systemC. Combination of A & BB. Individual Prescription Order SystemD. Unit dose dispensing systemC. Combination of A & BE. None of the aboveD. Unit dose dispensing systemE. None of the aboveRationale: The Complete Floor Stock systemplaces bulk quantities of medications on thenursing wards without immediate pharmacistRationale: The floor stock system eliminates theoversight per dose, making it highly susceptible toneed for processing drug returns since bulkpilferage and waste.medications are readily available on the nursingward.71. This is also known as the hospital-acquired infection.68. Used in small hospitalsA. Nosocomial infectionA. Floor stock systemB. Secondary infectionB. Individual Prescription Order SystemC. Primary infectionC. Combination of A & BD. SuperinfectionD. Unit dose dispensing systemE. Two of the aboveE. None of the aboveRationale: Nosocomial infections are those thatRationale: Small private hospitals frequently useare acquired by a patient during their stay in athe Individual Prescription Order System becausehospital or healthcare facility (usually appearingit requires less dedicated pharmacy staff and48 hours or more after admission).fewer sophisticated dispensing carts compared toUDDS.72. Which of the following is an ACE69. Used in government hospitalsinhibitor?A. Floor stock systemA. LisinoprilB. Individual Prescription Order SystemB. LabetalolC. Combination of A & BC. LoperamideD. Unit dose dispensing systemD. LosartanE. None of the aboveE. None of the aboveRationale: Government hospitals, due to highRationale: Drugs ending in \"-pril\" arepatient volume and mixed funding mechanisms,Angiotensin-Converting Enzyme (ACE) inhibitors.often use a Combination of Floor Stock (for wardLabetalol is a beta-blocker, Loperamide is anemergencies) and Individual Prescription Ordersantidiarrheal, and Losartan is an ARB.(for specialized meds)."
+  "answer_text": "Advisory and educational",
+  "rationale": "The P&T Committee serves two primary purposes: advisory (evaluating and selecting drugs for the formulary) and educational (providing information on safe drug use to healthcare staff)."
  },
  {
   "id": "SBE_MOD_3_63",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 63,
-  "question": "When the peripheral facility identifies65. Which of the following is NOT a high-the drug quantities to be requisitionedalert medication?from the procurement unit or warehouse,",
+  "question": "When the peripheral facility identifies the drug quantities to be requisitioned from the procurement unit or warehouse, this is known as?",
   "options": [
    {
     "label": "A",
-    "text": "Vasoactive peptidesthis is known as?"
+    "text": "Push system"
    },
    {
     "label": "B",
-    "text": "InsulinA. Push system"
+    "text": "UDDS"
    },
    {
     "label": "C",
-    "text": "ChlorpheniramineB. UDDS"
+    "text": "Direct Purchasing"
    },
    {
     "label": "D",
-    "text": "HeparinC. Direct Purchasing"
+    "text": "Pull system"
    },
    {
     "label": "E",
@@ -22744,15 +23064,15 @@
    }
   ],
   "answer": "D",
-  "answer_text": "HeparinC. Direct Purchasing",
-  "rationale": "High-alert medications bear aheightened risk of causing significant patientharm when used in error. Chlorpheniramine (anRationale: In a pull system, inventory isantihistamine) is a standard medication, whereasrequested (pulled) by the lower-level facilitiesInsulin, Heparin, Morphine, and vasoactive drugsbased on their actual consumption and currentare strictly monitored.needs."
+  "answer_text": "Pull system",
+  "rationale": "In a pull system, inventory is requested (pulled) by the lower-level facilities based on their actual consumption and current needs."
  },
  {
   "id": "SBE_MOD_3_64",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 64,
-  "question": "This is the gold standard for drugTherapeutics Committee are the following:distribution systems.",
+  "question": "This is the gold standard for drug distribution systems.",
   "options": [
    {
     "label": "A",
@@ -22777,14 +23097,14 @@
   ],
   "answer": "D",
   "answer_text": "Unit dose dispensing system",
-  "rationale": "The P&T Committee serves twoRationale: The Unit Dose Dispensing Systemprimary purposes: advisory (evaluating and(UDDS) is considered the gold standard inselecting drugs for the formulary) and educationalhospitals because it minimizes medication errors,(providing information on safe drug use toimproves inventory control, and optimizeshealthcare staff).pharmacist clinical involvement."
+  "rationale": "The Unit Dose Dispensing System (UDDS) is considered the gold standard in hospitals because it minimizes medication errors, improves inventory control, and optimizes pharmacist clinical involvement."
  },
  {
   "id": "SBE_MOD_3_65",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 65,
-  "question": "Which of the following is NOT a high-the drug quantities to be requisitionedalert medication?from the procurement unit or warehouse,",
+  "question": "Which of the following is NOT a high- alert medication?",
   "options": [
    {
     "label": "A",
@@ -22792,7 +23112,7 @@
    },
    {
     "label": "B",
-    "text": "InsulinA. Push system"
+    "text": "Insulin"
    },
    {
     "label": "C",
@@ -22800,16 +23120,16 @@
    },
    {
     "label": "D",
-    "text": "HeparinC. Direct Purchasing"
+    "text": "Heparin"
    },
    {
     "label": "E",
-    "text": "MorphineD. Pull systemE. Two of the above"
+    "text": "Morphine"
    }
   ],
   "answer": "C",
   "answer_text": "Chlorpheniramine",
-  "rationale": "High-alert medications bear aheightened risk of causing significant patientharm when used in error. Chlorpheniramine (anRationale: In a pull system, inventory isantihistamine) is a standard medication, whereasrequested (pulled) by the lower-level facilitiesInsulin, Heparin, Morphine, and vasoactive drugsbased on their actual consumption and currentare strictly monitored.needs."
+  "rationale": "High-alert medications bear a heightened risk of causing significant patient harm when used in error. Chlorpheniramine (an antihistamine) is a standard medication, whereas Insulin, Heparin, Morphine, and vasoactive drugs are strictly monitored."
  },
  {
   "id": "SBE_MOD_3_66",
@@ -22841,7 +23161,7 @@
   ],
   "answer": "B",
   "answer_text": "Nurse",
-  "rationale": "In a hospital setting, after thephysician prescribes and the pharmacistdispenses, it is traditionally the responsibility ofthe registered nurse to administer the medicationto the patient. For #67-70, identify the drug distribution70. Prone to pilferagesystem:A. Floor stock system67. Elimination of Drug ReturnsB. Individual Prescription Order SystemA. Floor stock systemC. Combination of A & BB. Individual Prescription Order SystemD. Unit dose dispensing systemC. Combination of A & BE. None of the aboveD. Unit dose dispensing systemE. None of the aboveRationale: The Complete Floor Stock systemplaces bulk quantities of medications on thenursing wards without immediate pharmacistRationale: The floor stock system eliminates theoversight per dose, making it highly susceptible toneed for processing drug returns since bulkpilferage and waste.medications are readily available on the nursingward."
+  "rationale": "In a hospital setting, after the physician prescribes and the pharmacist dispenses, it is traditionally the responsibility of the registered nurse to administer the medication to the patient. For #67-70, identify the drug distribution system:"
  },
  {
   "id": "SBE_MOD_3_67",
@@ -22873,7 +23193,7 @@
   ],
   "answer": "A",
   "answer_text": "Floor stock system",
-  "rationale": "The Complete Floor Stock systemplaces bulk quantities of medications on thenursing wards without immediate pharmacistRationale: The floor stock system eliminates theoversight per dose, making it highly susceptible toneed for processing drug returns since bulkpilferage and waste.medications are readily available on the nursingward."
+  "rationale": "The floor stock system eliminates the need for processing drug returns since bulk medications are readily available on the nursing ward."
  },
  {
   "id": "SBE_MOD_3_68",
@@ -22905,7 +23225,7 @@
   ],
   "answer": "B",
   "answer_text": "Individual Prescription Order System",
-  "rationale": "Nosocomial infections are those thatRationale: Small private hospitals frequently useare acquired by a patient during their stay in athe Individual Prescription Order System becausehospital or healthcare facility (usually appearingit requires less dedicated pharmacy staff and48 hours or more after admission).fewer sophisticated dispensing carts compared toUDDS."
+  "rationale": "Small private hospitals frequently use the Individual Prescription Order System because it requires less dedicated pharmacy staff and fewer sophisticated dispensing carts compared to UDDS."
  },
  {
   "id": "SBE_MOD_3_69",
@@ -22937,7 +23257,7 @@
   ],
   "answer": "C",
   "answer_text": "Combination of A & B",
-  "rationale": "Government hospitals, due to highRationale: Drugs ending in \"-pril\" arepatient volume and mixed funding mechanisms,Angiotensin-Converting Enzyme (ACE) inhibitors.often use a Combination of Floor Stock (for wardLabetalol is a beta-blocker, Loperamide is anemergencies) and Individual Prescription Ordersantidiarrheal, and Losartan is an ARB.(for specialized meds)."
+  "rationale": "Government hospitals, due to high patient volume and mixed funding mechanisms, often use a Combination of Floor Stock (for ward emergencies) and Individual Prescription Orders (for specialized meds)."
  },
  {
   "id": "SBE_MOD_3_70",
@@ -22949,6 +23269,22 @@
    {
     "label": "A",
     "text": "Floor stock system"
+   },
+   {
+    "label": "B",
+    "text": "Individual Prescription Order System"
+   },
+   {
+    "label": "C",
+    "text": "Combination of A & B"
+   },
+   {
+    "label": "D",
+    "text": "Unit dose dispensing system"
+   },
+   {
+    "label": "E",
+    "text": "None of the above"
    }
   ],
   "answer": "A",
@@ -22992,23 +23328,23 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 72,
-  "question": "Which of the following is an ACE69. Used in government hospitalsinhibitor?",
+  "question": "Which of the following is an ACE inhibitor?",
   "options": [
    {
     "label": "A",
-    "text": "Floor stock systemA. Lisinopril"
+    "text": "Lisinopril"
    },
    {
     "label": "B",
-    "text": "Individual Prescription Order SystemB. Labetalol"
+    "text": "Labetalol"
    },
    {
     "label": "C",
-    "text": "Combination of A & BC. Loperamide"
+    "text": "Loperamide"
    },
    {
     "label": "D",
-    "text": "Unit dose dispensing systemD. Losartan"
+    "text": "Losartan"
    },
    {
     "label": "E",
@@ -23016,79 +23352,79 @@
    }
   ],
   "answer": "A",
-  "answer_text": "Floor stock systemA. Lisinopril",
-  "rationale": "Government hospitals, due to highRationale: Drugs ending in \"-pril\" arepatient volume and mixed funding mechanisms,Angiotensin-Converting Enzyme (ACE) inhibitors.often use a Combination of Floor Stock (for wardLabetalol is a beta-blocker, Loperamide is anemergencies) and Individual Prescription Ordersantidiarrheal, and Losartan is an ARB.(for specialized meds)."
+  "answer_text": "Lisinopril",
+  "rationale": "Drugs ending in \"-pril\" are Angiotensin-Converting Enzyme (ACE) inhibitors. Labetalol is a beta-blocker, Loperamide is an antidiarrheal, and Losartan is an ARB."
  },
  {
   "id": "SBE_MOD_3_73",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 73,
-  "question": "Validation of HEPA filter efficiency can75. The following are the responsibilitiesbe done through:of hospital pharmacists, except?",
+  "question": "Validation of HEPA filter efficiency can be done through:",
   "options": [
    {
     "label": "A",
-    "text": "Water attack testA. Store and monitor various medications"
+    "text": "Water attack test"
    },
    {
     "label": "B",
-    "text": "Bubble point testB. Check and interpret prescription orders"
+    "text": "Bubble point test"
    },
    {
     "label": "C",
-    "text": "Prepare and compound IV admixturesC. Dioctylphthalate test"
+    "text": "Dioctylphthalate test"
    },
    {
     "label": "D",
-    "text": "Leaker's testD. Administer medications"
+    "text": "Leaker's test"
    },
    {
     "label": "E",
-    "text": "Two of the aboveE. None of the above"
+    "text": "Two of the above"
    }
   ],
   "answer": "C",
-  "answer_text": "Prepare and compound IV admixturesC. Dioctylphthalate test",
-  "rationale": "The Dioctylphthalate (DOP) smokeRationale: While clinical pharmacists aretest is the standard method used to challengeincreasingly involved in bedside care, the physicaland validate the integrity and efficiency of HEPAadministration of medications remains the corefilters in cleanrooms and biological safetylegal responsibility of the nursing staff, not thecabinets.pharmacist.74. Arrange chronologically the followingFor #76-80, identify the medication errorsteps in the preparation of TPN.category (NCC MERP).I. Add electrolytes and trace elements inChoices for 76-80:the port76. SALADS and HAMs (Sound-Alike Look-II. Mix thoroughly then hang it on the dripAlike Drugs / High Alert Meds)standA. Category AIII. Press the upper left chamber (glucose)to mix with lower chamber (amino acids)B. Category FIV. Press the upper right chamber (lipids)C. Category Gto mix with lower chamber (amino acids)D. Category HV. Add vitaminsE. Category IA. I, III, IV, V, IIB. III, I, IV, V, IIRationale: Category A encompassescircumstances or events that have the capacity toC. IV, I, III, V, IIcause error, which includes the presence ofD. III, IV, I, V, IIsound-alike/look-alike drugs without safeguards.E. IV, V, III, I, IIRationale: When compounding a multi-chamber77. A pregnant woman who was takingTPN bag, the peel seals are broken first to mixcaptopril gave birth to a child withthe base solutions (Glucose to Amino acids [III],abnormalities in the position and size ofthen Lipids to the mixture [IV]). Afterthe kidneys.reconstitution, additives like electrolytes (I) andvitamins (V) are injected, and finally the bag isRationale: This aligns with Category G: An errormixed well for hanging (II).occurred that resulted in permanent patient harm(in this case, irreversible teratogenic effects to theinfant)."
+  "answer_text": "Dioctylphthalate test",
+  "rationale": "The Dioctylphthalate (DOP) smoke test is the standard method used to challenge and validate the integrity and efficiency of HEPA filters in cleanrooms and biological safety cabinets."
  },
  {
   "id": "SBE_MOD_3_74",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 74,
-  "question": "Arrange chronologically the followingFor #76-80, identify the medication errorsteps in the preparation of TPN.category (NCC MERP).I. Add electrolytes and trace elements inChoices for 76-80:the port76. SALADS and HAMs (Sound-Alike Look-II. Mix thoroughly then hang it on the dripAlike Drugs / High Alert Meds)stand",
+  "question": "Arrange chronologically the following steps in the preparation of TPN. I. Add electrolytes and trace elements in the port II. Mix thoroughly then hang it on the drip stand III. Press the upper left chamber (glucose) to mix with lower chamber (amino acids) IV. Press the upper right chamber (lipids) to mix with lower chamber (amino acids) V. Add vitamins",
   "options": [
    {
     "label": "A",
-    "text": "Category AIII. Press the upper left chamber (glucose)to mix with lower chamber (amino acids)"
+    "text": "I, III, IV, V, II"
    },
    {
     "label": "B",
-    "text": "Category FIV. Press the upper right chamber (lipids)"
+    "text": "III, I, IV, V, II"
    },
    {
     "label": "C",
-    "text": "Category Gto mix with lower chamber (amino acids)"
+    "text": "IV, I, III, V, II"
    },
    {
     "label": "D",
-    "text": "Category HV. Add vitamins"
+    "text": "III, IV, I, V, II"
    },
    {
     "label": "E",
-    "text": "Category IA. I, III, IV, V, IIB. III, I, IV, V, II"
+    "text": "IV, V, III, I, II"
    }
   ],
   "answer": "D",
-  "answer_text": "Category HV. Add vitamins",
-  "rationale": "Category A encompassescircumstances or events that have the capacity toC. IV, I, III, V, IIcause error, which includes the presence ofD. III, IV, I, V, IIsound-alike/look-alike drugs without safeguards.E. IV, V, III, I, IIRationale: When compounding a multi-chamber77. A pregnant woman who was takingTPN bag, the peel seals are broken first to mixcaptopril gave birth to a child withthe base solutions (Glucose to Amino acids [III],abnormalities in the position and size ofthen Lipids to the mixture [IV]). Afterthe kidneys.reconstitution, additives like electrolytes (I) andvitamins (V) are injected, and finally the bag isRationale: This aligns with Category G: An errormixed well for hanging (II).occurred that resulted in permanent patient harm(in this case, irreversible teratogenic effects to theinfant)."
+  "answer_text": "III, IV, I, V, II",
+  "rationale": "When compounding a multi-chamber TPN bag, the peel seals are broken first to mix the base solutions (Glucose to Amino acids [III], then Lipids to the mixture [IV]). After reconstitution, additives like electrolytes (I) and vitamins (V) are injected, and finally the bag is mixed well for hanging (II)."
  },
  {
   "id": "SBE_MOD_3_75",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 75,
-  "question": "The following are the responsibilitiesbe done through:of hospital pharmacists, except?",
+  "question": "The following are the responsibilities of hospital pharmacists, except?",
   "options": [
    {
     "label": "A",
@@ -23113,39 +23449,71 @@
   ],
   "answer": "D",
   "answer_text": "Administer medications",
-  "rationale": "The Dioctylphthalate (DOP) smokeRationale: While clinical pharmacists aretest is the standard method used to challengeincreasingly involved in bedside care, the physicaland validate the integrity and efficiency of HEPAadministration of medications remains the corefilters in cleanrooms and biological safetylegal responsibility of the nursing staff, not thecabinets.pharmacist."
+  "rationale": "While clinical pharmacists are increasingly involved in bedside care, the physical administration of medications remains the core legal responsibility of the nursing staff, not the pharmacist. For #76-80, identify the medication error category (NCC MERP). Choices for 76-80:"
  },
  {
   "id": "SBE_MOD_3_76",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 76,
-  "question": "SALADS and HAMs (Sound-Alike Look-II. Mix thoroughly then hang it on the dripAlike Drugs / High Alert Meds)standA. Category AIII. Press the upper left chamber (glucose)to mix with lower chamber (amino acids)B. Category FIV. Press the upper right chamber (lipids)C. Category Gto mix with lower chamber (amino acids)D. Category HV. Add vitaminsE. Category I",
+  "question": "SALADS and HAMs (Sound-Alike Look- Alike Drugs / High Alert Meds)",
   "options": [
    {
     "label": "A",
-    "text": "Category AIII. Press the upper left chamber (glucose)to mix with lower chamber (amino acids)"
+    "text": "Category A"
    },
    {
     "label": "B",
-    "text": "Category FIV. Press the upper right chamber (lipids)"
+    "text": "Category F"
    },
    {
     "label": "C",
-    "text": "Category Gto mix with lower chamber (amino acids)"
+    "text": "Category G"
    },
    {
     "label": "D",
-    "text": "Category HV. Add vitamins"
+    "text": "Category H"
    },
    {
     "label": "E",
-    "text": "Category IA. I, III, IV, V, IIB. III, I, IV, V, II"
+    "text": "Category I"
    }
   ],
   "answer": "A",
-  "answer_text": "Category AIII. Press the upper left chamber (glucose)to mix with lower chamber (amino acids)",
-  "rationale": "Category A encompassescircumstances or events that have the capacity toC. IV, I, III, V, IIcause error, which includes the presence ofD. III, IV, I, V, IIsound-alike/look-alike drugs without safeguards.E. IV, V, III, I, IIRationale: When compounding a multi-chamber"
+  "answer_text": "Category A",
+  "rationale": "Category A encompasses circumstances or events that have the capacity to cause error, which includes the presence of sound-alike/look-alike drugs without safeguards."
+ },
+ {
+  "id": "SBE_MOD_3_81",
+  "module": "SBE MOD 3",
+  "category": "SBE",
+  "number": 81,
+  "question": "Emeritus",
+  "options": [
+   {
+    "label": "A",
+    "text": "Courtesy Staff"
+   },
+   {
+    "label": "B",
+    "text": "Resident Staff"
+   },
+   {
+    "label": "C",
+    "text": "Consulting Staff"
+   },
+   {
+    "label": "D",
+    "text": "Associate Staff"
+   },
+   {
+    "label": "E",
+    "text": "Honorary Staff"
+   }
+  ],
+  "answer": "E",
+  "answer_text": "Honorary Staff",
+  "rationale": "Physicians who have retired from active service but are recognized for their outstanding contributions are granted 'Emeritus' status, which falls under the Honorary Staff category."
  },
  {
   "id": "SBE_MOD_3_82",
@@ -23157,11 +23525,27 @@
    {
     "label": "A",
     "text": "Courtesy Staff"
+   },
+   {
+    "label": "B",
+    "text": "Resident Staff"
+   },
+   {
+    "label": "C",
+    "text": "Consulting Staff"
+   },
+   {
+    "label": "D",
+    "text": "Associate Staff"
+   },
+   {
+    "label": "E",
+    "text": "Honorary Staff"
    }
   ],
   "answer": "D",
   "answer_text": "Associate Staff",
-  "rationale": "Category F involves errors thatB. Resident Staffresulted in temporary patient harm and requiredC. Consulting Staffinitial or prolonged hospitalization to monitor/treatthe consequence.D. Associate StaffE. Honorary Staff"
+  "rationale": "New physicians admitted to the medical staff usually enter as Associate Staff for a probationary period before being promoted to Active Staff."
  },
  {
   "id": "SBE_MOD_3_83",
@@ -23173,6 +23557,22 @@
    {
     "label": "A",
     "text": "Courtesy Staff"
+   },
+   {
+    "label": "B",
+    "text": "Resident Staff"
+   },
+   {
+    "label": "C",
+    "text": "Consulting Staff"
+   },
+   {
+    "label": "D",
+    "text": "Associate Staff"
+   },
+   {
+    "label": "E",
+    "text": "Honorary Staff"
    }
   ],
   "answer": "B",
@@ -23184,59 +23584,71 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 84,
-  "question": "Which of the following is NOT a sourceof income for hospitals?D. Associate Staff",
+  "question": "Which of the following is NOT a source of income for hospitals?",
   "options": [
    {
     "label": "A",
-    "text": "PatientsE. Honorary Staff"
+    "text": "Patients"
    },
    {
     "label": "B",
     "text": "Investments"
+   },
+   {
+    "label": "C",
+    "text": "Government Funding"
+   },
+   {
+    "label": "D",
+    "text": "HMOs"
+   },
+   {
+    "label": "E",
+    "text": "None of the above"
    }
   ],
   "answer": "E",
   "answer_text": "None of the above",
-  "rationale": "Physicians who have retired fromC. Government Fundingactive service but are recognized for theiroutstanding contributions are granted 'Emeritus'D. HMOsstatus, which falls under the Honorary StaffE. None of the abovecategory.Rationale: Patients (out-of-pocket), Investments(endowments/stocks), Government funding(subsidies), and Health MaintenanceOrganizations (insurance payments) are alllegitimate sources of hospital revenue."
+  "rationale": "Patients (out-of-pocket), Investments (endowments/stocks), Government funding (subsidies), and Health Maintenance Organizations (insurance payments) are all legitimate sources of hospital revenue."
  },
  {
   "id": "SBE_MOD_3_85",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 85,
-  "question": "Which of the following is the 1st88. Which of the following does NOTrecognized representative of thedescribe pharmaceutical research, as apharmaceutical profession?responsibility of hospital pharmacist?",
+  "question": "Which of the following is the 1st recognized representative of the pharmaceutical profession?",
   "options": [
    {
     "label": "A",
-    "text": "Community pharmacistA. Develop new formulations of drugs"
+    "text": "Community pharmacist"
    },
    {
     "label": "B",
-    "text": "Manufacturing pharmacistB. Improve formulations of existing drugs"
+    "text": "Manufacturing pharmacist"
    },
    {
     "label": "C",
-    "text": "Cooperate with the medical research staffC. Hospital pharmaciston projects involving drugs"
+    "text": "Hospital pharmacist"
    },
    {
     "label": "D",
-    "text": "Institutional pharmacistD. Maintain the drug information center"
+    "text": "Institutional pharmacist"
    },
    {
     "label": "E",
-    "text": "Academic pharmacistE. None of the above"
+    "text": "Academic pharmacist"
    }
   ],
   "answer": "C",
-  "answer_text": "Cooperate with the medical research staffC. Hospital pharmaciston projects involving drugs",
-  "rationale": "In historical contexts (particularly insome Board curricula), institutional practitionersRationale: Maintaining the DIC is classified as a(Hospital pharmacists like Jonathan Roberts)Clinical Service, focusing on providing drug datawere the first formally appointed representativesand answering queries, separate from activeof the profession in early hospital systems.laboratory or clinical pharmaceutical research.86. Who is the chair of the board of89. Which of the following does NOTpharmacy?describe manufacturing and packaging, asa responsibility of hospital pharmacist?A. Aleth DacanayA. Manufacture wide variety of items inB. Mildred Oliveroscommon useC. Anthony Aldrin SantiagoB. Produce small volume parenteralD. Adelina RoyoC. Maintain a unit dose programE. Alicia CatabayD. Operate an overall drug packaging andprepackaging programRationale: Aleth Dacanay is currently serving asthe Chair of the Professional Regulatory Board ofE. Undertake a unit dose programPharmacy.Rationale: Producing small volume parenterals isgenerally classified under sterile compoundingand IV admixture services, rather than bulk87. Which of the following does NOTmanufacturing and packaging.describe administrative services?A. Develop policiesB. Schedule personnel and providesupervisionC. Plan and coordinate departmentalactivitiesD. Maintain literature filesE. Supervise departmental office staffsRationale: Maintaining literature files is a clinical/informational service typically handled by a DrugInformation Center (DIC), not an administrativemanagement function."
+  "answer_text": "Hospital pharmacist",
+  "rationale": "In historical contexts (particularly in some Board curricula), institutional practitioners (Hospital pharmacists like Jonathan Roberts) were the first formally appointed representatives of the profession in early hospital systems."
  },
  {
   "id": "SBE_MOD_3_86",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 86,
-  "question": "Who is the chair of the board of89. Which of the following does NOTpharmacy?describe manufacturing and packaging, asa responsibility of hospital pharmacist?",
+  "question": "Who is the chair of the board of pharmacy?",
   "options": [
    {
     "label": "A",
@@ -23261,14 +23673,14 @@
   ],
   "answer": "A",
   "answer_text": "Aleth Dacanay",
-  "rationale": "Aleth Dacanay is currently serving asthe Chair of the Professional Regulatory Board ofE. Undertake a unit dose programPharmacy.Rationale: Producing small volume parenterals isgenerally classified under sterile compoundingand IV admixture services, rather than bulk87. Which of the following does NOTmanufacturing and packaging.describe administrative services?A. Develop policiesB. Schedule personnel and providesupervisionC. Plan and coordinate departmentalactivitiesD. Maintain literature filesE. Supervise departmental office staffsRationale: Maintaining literature files is a clinical/informational service typically handled by a DrugInformation Center (DIC), not an administrativemanagement function."
+  "rationale": "Aleth Dacanay is currently serving as the Chair of the Professional Regulatory Board of Pharmacy."
  },
  {
   "id": "SBE_MOD_3_87",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 87,
-  "question": "Which of the following does NOTmanufacturing and packaging.describe administrative services?",
+  "question": "Which of the following does NOT describe administrative services?",
   "options": [
    {
     "label": "A",
@@ -23300,7 +23712,7 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 88,
-  "question": "Which of the following does NOTrecognized representative of thedescribe pharmaceutical research, as apharmaceutical profession?responsibility of hospital pharmacist?",
+  "question": "Which of the following does NOT describe pharmaceutical research, as a responsibility of hospital pharmacist?",
   "options": [
    {
     "label": "A",
@@ -23325,14 +23737,14 @@
   ],
   "answer": "D",
   "answer_text": "Maintain the drug information center",
-  "rationale": "In historical contexts (particularly insome Board curricula), institutional practitionersRationale: Maintaining the DIC is classified as a(Hospital pharmacists like Jonathan Roberts)Clinical Service, focusing on providing drug datawere the first formally appointed representativesand answering queries, separate from activeof the profession in early hospital systems.laboratory or clinical pharmaceutical research."
+  "rationale": "Maintaining the DIC is classified as a Clinical Service, focusing on providing drug data and answering queries, separate from active laboratory or clinical pharmaceutical research."
  },
  {
   "id": "SBE_MOD_3_89",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 89,
-  "question": "Which of the following does NOTpharmacy?describe manufacturing and packaging, asa responsibility of hospital pharmacist?",
+  "question": "Which of the following does NOT describe manufacturing and packaging, as a responsibility of hospital pharmacist?",
   "options": [
    {
     "label": "A",
@@ -23340,31 +23752,31 @@
    },
    {
     "label": "B",
-    "text": "Mildred Oliveroscommon use"
+    "text": "Produce small volume parenteral"
    },
    {
     "label": "C",
-    "text": "Anthony Aldrin SantiagoB. Produce small volume parenteral"
+    "text": "Maintain a unit dose program"
    },
    {
     "label": "D",
-    "text": "Adelina RoyoC. Maintain a unit dose program"
+    "text": "Operate an overall drug packaging and"
    },
    {
     "label": "E",
-    "text": "Alicia CatabayD. Operate an overall drug packaging andprepackaging program"
+    "text": "Undertake a unit dose program"
    }
   ],
   "answer": "B",
-  "answer_text": "Mildred Oliveroscommon use",
-  "rationale": "Aleth Dacanay is currently serving asthe Chair of the Professional Regulatory Board ofE. Undertake a unit dose programPharmacy.Rationale: Producing small volume parenterals isgenerally classified under sterile compoundingand IV admixture services, rather than bulk"
+  "answer_text": "Produce small volume parenteral",
+  "rationale": "Producing small volume parenterals is generally classified under sterile compounding and IV admixture services, rather than bulk manufacturing and packaging."
  },
  {
   "id": "SBE_MOD_3_90",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 90,
-  "question": "Which of the following is a service92. It is the part of a patient medical chartunder assay and quality control?that focuses on the sexual activity andvices of the patient",
+  "question": "Which of the following is a service under assay and quality control?",
   "options": [
    {
     "label": "A",
@@ -23389,38 +23801,46 @@
   ],
   "answer": "A",
   "answer_text": "Assist research division in special",
-  "rationale": "The Social History section coverslifestyle aspects, including occupation, diet,exercise, sexual activity, and the use of tobacco,Rationale: Quality Control departments typicallyalcohol, or illicit drugs (vices).monitor sterility and stability, occasionallyassisting the research division with assaydevelopment and testing of special in-houseformulations."
+  "rationale": "Quality Control departments typically monitor sterility and stability, occasionally assisting the research division with assay development and testing of special in-house formulations."
  },
  {
   "id": "SBE_MOD_3_91",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 91,
-  "question": "Which of the following is the correctB. Fat Malabsorptionsequence for abdomen assessment?C. Dehydration",
+  "question": "Which of the following is the correct sequence for abdomen assessment?",
   "options": [
    {
     "label": "A",
-    "text": "Ins-Pal-Per-AusD. Lower GI bleeding"
+    "text": "Ins-Pal-Per-Aus"
    },
    {
     "label": "B",
-    "text": "Ins-Aus-Per-PalE. None of the above"
+    "text": "Ins-Aus-Per-Pal"
    },
    {
     "label": "C",
     "text": "Ins-Pal-Aus-Per"
+   },
+   {
+    "label": "D",
+    "text": "Pal-Ins-Per-Aus"
+   },
+   {
+    "label": "E",
+    "text": "None of the above"
    }
   ],
   "answer": "B",
-  "answer_text": "Ins-Aus-Per-PalE. None of the above",
-  "rationale": "Melena (black, tarry stools) is causedD. Pal-Ins-Per-Ausby the digestion of blood in the gastrointestinalE. None of the abovetract and is a hallmark sign of upper GI bleeding(e.g., from a peptic ulcer).Rationale: The standard sequence for abdominalassessment is Inspection, Auscultation,Percussion, and Palpation. Auscultation is done"
+  "answer_text": "Ins-Aus-Per-Pal",
+  "rationale": "The standard sequence for abdominal assessment is Inspection, Auscultation, Percussion, and Palpation. Auscultation is done second because percussion or palpation can alter natural bowel sounds."
  },
  {
   "id": "SBE_MOD_3_92",
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 92,
-  "question": "It is the part of a patient medical chartunder assay and quality control?that focuses on the sexual activity andvices of the patient",
+  "question": "It is the part of a patient medical chart that focuses on the sexual activity and vices of the patient",
   "options": [
    {
     "label": "A",
@@ -23445,7 +23865,7 @@
   ],
   "answer": "D",
   "answer_text": "Social History",
-  "rationale": "The Social History section coverslifestyle aspects, including occupation, diet,exercise, sexual activity, and the use of tobacco,Rationale: Quality Control departments typicallyalcohol, or illicit drugs (vices).monitor sterility and stability, occasionallyassisting the research division with assaydevelopment and testing of special in-houseformulations."
+  "rationale": "The Social History section covers lifestyle aspects, including occupation, diet, exercise, sexual activity, and the use of tobacco, alcohol, or illicit drugs (vices)."
  },
  {
   "id": "SBE_MOD_3_93",
@@ -23457,11 +23877,27 @@
    {
     "label": "A",
     "text": "Upper GI bleeding"
+   },
+   {
+    "label": "B",
+    "text": "Fat Malabsorption"
+   },
+   {
+    "label": "C",
+    "text": "Dehydration"
+   },
+   {
+    "label": "D",
+    "text": "Lower GI bleeding"
+   },
+   {
+    "label": "E",
+    "text": "None of the above"
    }
   ],
   "answer": "A",
   "answer_text": "Upper GI bleeding",
-  "rationale": "Melena (black, tarry stools) is causedD. Pal-Ins-Per-Ausby the digestion of blood in the gastrointestinalE. None of the abovetract and is a hallmark sign of upper GI bleeding(e.g., from a peptic ulcer).Rationale: The standard sequence for abdominalassessment is Inspection, Auscultation,Percussion, and Palpation. Auscultation is done94. Erythropoietin is produced by:second because percussion or palpation can alternatural bowel sounds.A. Bone marrowB. LungsC. HeartD. LiverE. KidneyRationale: Erythropoietin (EPO) is a hormoneprimarily produced by the peritubular capillarylining cells of the kidney in response to cellularhypoxia. It stimulates red blood cell production inthe bone marrow."
+  "rationale": "Melena (black, tarry stools) is caused by the digestion of blood in the gastrointestinal tract and is a hallmark sign of upper GI bleeding (e.g., from a peptic ulcer)."
  },
  {
   "id": "SBE_MOD_3_94",
@@ -23500,32 +23936,32 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 95,
-  "question": "Megaloblastic anemia is characterized98. This test parameter is more specificby:for liver-related injuries or diseases:",
+  "question": "Megaloblastic anemia is characterized by:",
   "options": [
    {
     "label": "A",
-    "text": "Hypochromic, MacrocyticA. AST"
+    "text": "Hypochromic, Macrocytic"
    },
    {
     "label": "B",
-    "text": "Hypochromic, MicrocyticB. SGPT"
+    "text": "Hypochromic, Microcytic"
    },
    {
     "label": "C",
-    "text": "ALTC. Normochromic, Macrocytic"
+    "text": "Normochromic, Macrocytic"
    },
    {
     "label": "D",
-    "text": "A and CD. Normochromic, Microcytic"
+    "text": "Normochromic, Microcytic"
    },
    {
     "label": "E",
-    "text": "B and CE. None of the above"
+    "text": "None of the above"
    }
   ],
   "answer": "C",
-  "answer_text": "ALTC. Normochromic, Macrocytic",
-  "rationale": "Megaloblastic anemia (often due toRationale: ALT (Alanine Aminotransferase) isVitamin B12 or Folate deficiency) results infound primarily in the liver, making it highlyenlarged red blood cells (macrocytic) with aspecific for liver injury. SGPT (Serum Glutamicnormal concentration of hemoglobinPyruvic Transaminase) is simply the older name(normochromic).for ALT. Thus, both B and C refer to the samespecific parameter.96. Coomb's Test99. Which of the following biomarkers isA. Pernicious Anemiaconsidered as the \"gold standard\" for theB. Carcinoid syndromediagnosis of myocardial infarction?C. Benign Prostatic HyperplasiaA. AFPD. Hemolytic AnemiaB. PSAE. Cerebellar functionC. CA-125D. Troponin IRationale: The direct Coombs test (directantistool globulin test) is used to detect antibodiesE. Ca2+that are stuck to the surface of red blood cells,confirming the diagnosis of autoimmuneRationale: Cardiac troponins (Troponin I and T)Hemolytic Anemia.are highly sensitive and specific for myocardialinjury and are the established gold standardbiomarkers for diagnosing acute myocardialinfarction.97. Most serious blood disorder:A. Hemolytic anemiaB. ThrombocytopeniaC. NeutropeniaD. LeukopeniaE. Aplastic anemiaRationale: Aplastic anemia is the most severe asit involves bone marrow failure, resulting in a life-threatening deficiency of all three blood cell types(pancytopenia: red cells, white cells, andplatelets)."
+  "answer_text": "Normochromic, Macrocytic",
+  "rationale": "Megaloblastic anemia (often due to Vitamin B12 or Folate deficiency) results in enlarged red blood cells (macrocytic) with a normal concentration of hemoglobin (normochromic)."
  },
  {
   "id": "SBE_MOD_3_96",
@@ -23557,7 +23993,7 @@
   ],
   "answer": "D",
   "answer_text": "Hemolytic Anemia",
-  "rationale": "The direct Coombs test (directantistool globulin test) is used to detect antibodiesE. Ca2+that are stuck to the surface of red blood cells,confirming the diagnosis of autoimmuneRationale: Cardiac troponins (Troponin I and T)Hemolytic Anemia.are highly sensitive and specific for myocardialinjury and are the established gold standardbiomarkers for diagnosing acute myocardialinfarction."
+  "rationale": "The direct Coombs test (direct antistool globulin test) is used to detect antibodies that are stuck to the surface of red blood cells, confirming the diagnosis of autoimmune Hemolytic Anemia."
  },
  {
   "id": "SBE_MOD_3_97",
@@ -23596,32 +24032,32 @@
   "module": "SBE MOD 3",
   "category": "SBE",
   "number": 98,
-  "question": "This test parameter is more specificby:for liver-related injuries or diseases:",
+  "question": "This test parameter is more specific for liver-related injuries or diseases:",
   "options": [
    {
     "label": "A",
-    "text": "Hypochromic, MacrocyticA. AST"
+    "text": "AST"
    },
    {
     "label": "B",
-    "text": "Hypochromic, MicrocyticB. SGPT"
+    "text": "SGPT"
    },
    {
     "label": "C",
-    "text": "ALTC. Normochromic, Macrocytic"
+    "text": "ALT"
    },
    {
     "label": "D",
-    "text": "A and CD. Normochromic, Microcytic"
+    "text": "A and C"
    },
    {
     "label": "E",
-    "text": "B and CE. None of the above"
+    "text": "B and C"
    }
   ],
   "answer": "E",
-  "answer_text": "B and CE. None of the above",
-  "rationale": "Megaloblastic anemia (often due toRationale: ALT (Alanine Aminotransferase) isVitamin B12 or Folate deficiency) results infound primarily in the liver, making it highlyenlarged red blood cells (macrocytic) with aspecific for liver injury. SGPT (Serum Glutamicnormal concentration of hemoglobinPyruvic Transaminase) is simply the older name(normochromic).for ALT. Thus, both B and C refer to the samespecific parameter."
+  "answer_text": "B and C",
+  "rationale": "ALT (Alanine Aminotransferase) is found primarily in the liver, making it highly specific for liver injury. SGPT (Serum Glutamic Pyruvic Transaminase) is simply the older name for ALT. Thus, both B and C refer to the same specific parameter."
  },
  {
   "id": "SBE_MOD_3_99",
@@ -23632,28 +24068,28 @@
   "options": [
    {
     "label": "A",
-    "text": "Pernicious Anemiaconsidered as the \"gold standard\" for the"
+    "text": "AFP"
    },
    {
     "label": "B",
-    "text": "Carcinoid syndromediagnosis of myocardial infarction?"
+    "text": "PSA"
    },
    {
     "label": "C",
-    "text": "Benign Prostatic HyperplasiaA. AFP"
+    "text": "CA-125"
    },
    {
     "label": "D",
-    "text": "Hemolytic AnemiaB. PSA"
+    "text": "Troponin I"
    },
    {
     "label": "E",
-    "text": "Cerebellar functionC. CA-125D. Troponin I"
+    "text": "Ca2+"
    }
   ],
   "answer": "D",
-  "answer_text": "Hemolytic AnemiaB. PSA",
-  "rationale": "The direct Coombs test (directantistool globulin test) is used to detect antibodiesE. Ca2+that are stuck to the surface of red blood cells,confirming the diagnosis of autoimmuneRationale: Cardiac troponins (Troponin I and T)Hemolytic Anemia.are highly sensitive and specific for myocardialinjury and are the established gold standardbiomarkers for diagnosing acute myocardialinfarction."
+  "answer_text": "Troponin I",
+  "rationale": "Cardiac troponins (Troponin I and T) are highly sensitive and specific for myocardial injury and are the established gold standard biomarkers for diagnosing acute myocardial infarction."
  },
  {
   "id": "SBE_MOD_3_100",
@@ -30000,7 +30436,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Titrand D. Solvent",
+  "answer_text": "Titrand",
   "rationale": "Titrand is the substance being analyzed."
  },
  {
@@ -30031,8 +30467,8 @@
     "text": "Filtration"
    }
   ],
-  "answer": "E",
-  "answer_text": "Filtration",
+  "answer": "B",
+  "answer_text": "Color change",
   "rationale": "Indicators change color at or near the equivalence point."
  },
  {
@@ -30063,9 +30499,9 @@
     "text": "Automatic burette"
    }
   ],
-  "answer": "E",
-  "answer_text": "Automatic burette",
-  "rationale": "Mohr's burette uses a rubber tube and pinchcock, suitable for bases which can freeze glass stopcocks."
+  "answer": "B",
+  "answer_text": "Mohr's burette",
+  "rationale": "Mohr's burette uses a rubber tube and pinchcock, suitable for bases which can freeze glassstopcocks."
  },
  {
   "id": "SBE_MOD_6_4",
@@ -30096,7 +30532,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "High molecular weight D. Volatility",
+  "answer_text": "High molecular weight",
   "rationale": "High molecular weight minimizes weighing errors."
  },
  {
@@ -30127,8 +30563,8 @@
     "text": "Indicator"
    }
   ],
-  "answer": "E",
-  "answer_text": "Indicator",
+  "answer": "B",
+  "answer_text": "Base",
   "rationale": "KHP is an acid, used to standardize bases like NaOH."
  },
  {
@@ -30159,8 +30595,8 @@
     "text": "None of the above"
    }
   ],
-  "answer": "E",
-  "answer_text": "None of the above",
+  "answer": "B",
+  "answer_text": "Insoluble",
   "rationale": "Back titration is used when the sample is volatile, insoluble, or reacts slowly."
  },
  {
@@ -30192,7 +30628,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Phenolphthalein D. Methyl orange",
+  "answer_text": "Phenolphthalein",
   "rationale": "Phenolphthalein is colorless in acidic and pink in basic solutions."
  },
  {
@@ -30223,8 +30659,8 @@
     "text": "12-14"
    }
   ],
-  "answer": "C",
-  "answer_text": "6-7 D. 8-10",
+  "answer": "D",
+  "answer_text": "8-10",
   "rationale": "It transitions from colorless to blue around pH 9.3 to 10.5."
  },
  {
@@ -30255,8 +30691,8 @@
     "text": "Water"
    }
   ],
-  "answer": "E",
-  "answer_text": "Water",
+  "answer": "B",
+  "answer_text": "Bases",
   "rationale": "Acidimetry is the measurement of bases using a standard acid."
  },
  {
@@ -30287,8 +30723,8 @@
     "text": "Gravimetry"
    }
   ],
-  "answer": "E",
-  "answer_text": "Gravimetry",
+  "answer": "C",
+  "answer_text": "Complexation",
   "rationale": "EDTA forms stable water-soluble complexes with metal ions."
  },
  {
@@ -30320,7 +30756,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Disodium EDTA D. Mercuric EDTA",
+  "answer_text": "Disodium EDTA",
   "rationale": "Disodium EDTA is widely used because it is highly soluble in water."
  },
  {
@@ -30351,8 +30787,8 @@
     "text": "Suspension"
    }
   ],
-  "answer": "A",
-  "answer_text": "Gas B. Colored complex",
+  "answer": "B",
+  "answer_text": "Colored complex",
   "rationale": "Metal-ion indicators form colored complexes to signal the endpoint."
  },
  {
@@ -30383,8 +30819,8 @@
     "text": "Sodium citrate"
    }
   ],
-  "answer": "E",
-  "answer_text": "Sodium citrate",
+  "answer": "B",
+  "answer_text": "Triethanolamine",
   "rationale": "Triethanolamine effectively masks iron and manganese in complexometric titrations."
  },
  {
@@ -30415,8 +30851,8 @@
     "text": "Diazotization"
    }
   ],
-  "answer": "C",
-  "answer_text": "Iodometry D. Permanganometry",
+  "answer": "D",
+  "answer_text": "Permanganometry",
   "rationale": "Potassium permanganate is the titrant in permanganometry."
  },
  {
@@ -30447,8 +30883,8 @@
     "text": "Indicator"
    }
   ],
-  "answer": "A",
-  "answer_text": "Reducing agent B. Oxidizing agent",
+  "answer": "B",
+  "answer_text": "Oxidizing agent",
   "rationale": "Ceric sulfate is a strong oxidizing agent used in cerimetry."
  },
  {
@@ -30479,8 +30915,8 @@
     "text": "Kjeldahl analysis"
    }
   ],
-  "answer": "E",
-  "answer_text": "Kjeldahl analysis",
+  "answer": "C",
+  "answer_text": "Iodimetry",
   "rationale": "Starch is the specific indicator for iodine in both iodimetry and iodometry."
  },
  {
@@ -30512,7 +30948,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "NH4SCN D. KMnO4",
+  "answer_text": "NH4SCN",
   "rationale": "Ammonium thiocyanate is used to back-titrate excess silver nitrate."
  },
  {
@@ -30543,8 +30979,8 @@
     "text": "White turbidity"
    }
   ],
-  "answer": "A",
-  "answer_text": "Blue complex B. Red precipitate",
+  "answer": "B",
+  "answer_text": "Red precipitate",
   "rationale": "Silver chromate forms a brick-red precipitate at the endpoint."
  },
  {
@@ -30575,8 +31011,8 @@
     "text": "Halides"
    }
   ],
-  "answer": "A",
-  "answer_text": "Water B. Nitrogen",
+  "answer": "B",
+  "answer_text": "Nitrogen",
   "rationale": "It is the standard method for determining nitrogen content in organic compounds."
  },
  {
@@ -30607,8 +31043,8 @@
     "text": "Fajans method"
    }
   ],
-  "answer": "E",
-  "answer_text": "Fajans method",
+  "answer": "B",
+  "answer_text": "Kjeldahl method",
   "rationale": "Selenium acts as a catalyst in the digestion step of the Kjeldahl method."
  },
  {
@@ -30639,8 +31075,8 @@
     "text": "15%"
    }
   ],
-  "answer": "C",
-  "answer_text": "5% D. 10%",
+  "answer": "D",
+  "answer_text": "10%",
   "rationale": "According to USP, the general limit is about 10% to prevent microbial growth."
  },
  {
@@ -30704,7 +31140,7 @@
    }
   ],
   "answer": "A",
-  "answer_text": "Gravimetric method B. Coulometric method",
+  "answer_text": "Gravimetric method",
   "rationale": "It involves weighing the sample before and after heating."
  },
  {
@@ -30735,8 +31171,8 @@
     "text": "1200 ± 25°C"
    }
   ],
-  "answer": "E",
-  "answer_text": "1200 ± 25°C",
+  "answer": "D",
+  "answer_text": "675 ± 25°C",
   "rationale": "USP specifies incineration at 675 ± 25°C for total ash determination."
  },
  {
@@ -30767,8 +31203,8 @@
     "text": "Water bath"
    }
   ],
-  "answer": "A",
-  "answer_text": "Oven B. Furnace",
+  "answer": "B",
+  "answer_text": "Furnace",
   "rationale": "A muffle furnace is used to reach the high temperatures needed for ignition/ashing."
  },
  {
@@ -30799,8 +31235,8 @@
     "text": "Oxidize lipids"
    }
   ],
-  "answer": "A",
-  "answer_text": "Neutralize acids only B. Saponify esters and neutralize acids",
+  "answer": "B",
+  "answer_text": "Saponify esters and neutralize acids",
   "rationale": "It represents the total free and combined acids in fats/oils."
  },
  {
@@ -30831,8 +31267,8 @@
     "text": "Alkalinity"
    }
   ],
-  "answer": "A",
-  "answer_text": "Saturation B. Unsaturation",
+  "answer": "B",
+  "answer_text": "Unsaturation",
   "rationale": "It determines the degree of unsaturation by measuring iodine absorbed by double bonds."
  },
  {
@@ -30896,7 +31332,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Yellow D. Green",
+  "answer_text": "Yellow",
   "rationale": "Mayer's reagent generally yields a cream to slightly yellow precipitate with alkaloids."
  },
  {
@@ -30927,8 +31363,8 @@
     "text": "Rat"
    }
   ],
-  "answer": "C",
-  "answer_text": "Dog D. Pigeon",
+  "answer": "D",
+  "answer_text": "Pigeon",
   "rationale": "Pigeons were historically used in the biological assay of digitalis/digoxin."
  },
  {
@@ -30959,8 +31395,8 @@
     "text": "Micrococcus luteus"
    }
   ],
-  "answer": "E",
-  "answer_text": "Micrococcus luteus",
+  "answer": "B",
+  "answer_text": "Escherichia coli",
   "rationale": "E. coli is frequently used in the microbiological assay of chloramphenicol."
  },
  {
@@ -30991,8 +31427,8 @@
     "text": "Viscosity"
    }
   ],
-  "answer": "A",
-  "answer_text": "Zone diameter B. Minimum inhibitory concentration",
+  "answer": "B",
+  "answer_text": "Minimum inhibitory concentration",
   "rationale": "It typically measures microbial growth inhibition in liquid media."
  },
  {
@@ -31023,8 +31459,8 @@
     "text": "Stability test"
    }
   ],
-  "answer": "E",
-  "answer_text": "Stability test",
+  "answer": "B",
+  "answer_text": "Assay",
   "rationale": "Assays quantitatively determine the amount of active pharmaceutical ingredient."
  },
  {
@@ -31055,8 +31491,8 @@
     "text": "Green fluorescence"
    }
   ],
-  "answer": "E",
-  "answer_text": "Green fluorescence",
+  "answer": "C",
+  "answer_text": "Black color",
   "rationale": "Reaction with sulfide forms dark/black metallic sulfides."
  },
  {
@@ -31087,8 +31523,8 @@
     "text": "Spectrophotometer"
    }
   ],
-  "answer": "E",
-  "answer_text": "Spectrophotometer",
+  "answer": "B",
+  "answer_text": "Pycnometer",
   "rationale": "A pycnometer precisely determines the specific gravity of liquids."
  },
  {
@@ -31119,8 +31555,8 @@
     "text": "Hydrometer"
    }
   ],
-  "answer": "E",
-  "answer_text": "Hydrometer",
+  "answer": "B",
+  "answer_text": "Polarimeter",
   "rationale": "A polarimeter measures the angle of rotation caused by optically active substances."
  },
  {
@@ -31151,8 +31587,8 @@
     "text": "Boyle's law"
    }
   ],
-  "answer": "E",
-  "answer_text": "Boyle's law",
+  "answer": "A",
+  "answer_text": "Beer's law",
   "rationale": "Based on the provided key (A). Note: Scientifically, Biot's law describes optical rotation."
  },
  {
@@ -31185,7 +31621,7 @@
   ],
   "answer": "E",
   "answer_text": "Rubber closures",
-  "rationale": "Based on the provided key (E). Elution test is a biological reactivity test often applied to elastomers."
+  "rationale": "Based on the provided key (E). Elution test is a biological reactivity test often applied toelastomers."
  },
  {
   "id": "SBE_MOD_6_39",
@@ -31215,8 +31651,8 @@
     "text": "pH meter"
    }
   ],
-  "answer": "A",
-  "answer_text": "Polarimeter B. UV/VIS spectrometer",
+  "answer": "B",
+  "answer_text": "UV/VIS spectrometer",
   "rationale": "A UV/VIS spectrometer measures the light protection capability of colored glass."
  },
  {
@@ -31247,9 +31683,9 @@
     "text": "100 μm"
    }
   ],
-  "answer": "E",
-  "answer_text": "100 μm",
-  "rationale": "Standard sieving is generally applicable and reliable for particles >75 μm.41. Bulk density uses the volume of:A. Tapped powder B. Untapped powderC. Compacted powder D. Dissolved powderE. Granulated powderRationale: Bulk density is calculated using the initial, untapped apparent volume.42. Hausner ratio is used to determine:A. Hardness B. SolubilityC. Compressibility D. Particle sizeE. MoistureRationale: Hausner ratio indicates the flowability and compressibility of a powder."
+  "answer": "D",
+  "answer_text": "75 μm",
+  "rationale": "Standard sieving is generally applicable and reliable for particles >75 μm."
  },
  {
   "id": "SBE_MOD_6_41",
@@ -31279,8 +31715,8 @@
     "text": "Granulated powder"
    }
   ],
-  "answer": "A",
-  "answer_text": "Tapped powder B. Untapped powder",
+  "answer": "B",
+  "answer_text": "Untapped powder",
   "rationale": "Bulk density is calculated using the initial, untapped apparent volume."
  },
  {
@@ -31312,7 +31748,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Compressibility D. Particle size",
+  "answer_text": "Compressibility",
   "rationale": "Hausner ratio indicates the flowability and compressibility of a powder."
  },
  {
@@ -31344,7 +31780,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Excellent flow D. Passable flow",
+  "answer_text": "Excellent flow",
   "rationale": "Angles between 25-30 degrees represent excellent powder flow."
  },
  {
@@ -31375,9 +31811,9 @@
     "text": "50 tablets"
    }
   ],
-  "answer": "E",
-  "answer_text": "50 tablets",
-  "rationale": "Based on the provided key (D). Certain compendial testing scopes use up to 30 tablets for full statistics."
+  "answer": "D",
+  "answer_text": "30 tablets",
+  "rationale": "Based on the provided key (D). Certain compendial testing scopes use up to 30 tablets for fullstatistics."
  },
  {
   "id": "SBE_MOD_6_45",
@@ -31407,8 +31843,8 @@
     "text": "100 mg API"
    }
   ],
-  "answer": "E",
-  "answer_text": "100 mg API",
+  "answer": "B",
+  "answer_text": "15 mg API",
   "rationale": "Based on the provided key (B). Modern limits usually require it for <25 mg."
  },
  {
@@ -31424,11 +31860,23 @@
    },
    {
     "label": "B",
-    "text": "37 ±"
+    "text": "37 ± 0.5°C"
+   },
+   {
+    "label": "C",
+    "text": "37 ± 2°C"
+   },
+   {
+    "label": "D",
+    "text": "40 ± 2°C"
+   },
+   {
+    "label": "E",
+    "text": "45 ± 2°C"
    }
   ],
   "answer": "C",
-  "answer_text": "37 ± 2°C D. 40 ± 2°C",
+  "answer_text": "37 ± 2°C",
   "rationale": "Simulates body temperature for in vitro disintegration testing."
  },
  {
@@ -31459,8 +31907,8 @@
     "text": "Saline solution"
    }
   ],
-  "answer": "C",
-  "answer_text": "Water D. Simulated gastric fluid",
+  "answer": "D",
+  "answer_text": "Simulated gastric fluid",
   "rationale": "Enteric coats protect the core from acidic gastric fluids."
  },
  {
@@ -31491,8 +31939,8 @@
     "text": "90%"
    }
   ],
-  "answer": "E",
-  "answer_text": "90%",
+  "answer": "D",
+  "answer_text": "75%",
   "rationale": "Typically, Q is 75% for many immediate-release standard tablets."
  },
  {
@@ -31523,8 +31971,8 @@
     "text": "Cell"
    }
   ],
-  "answer": "E",
-  "answer_text": "Cell",
+  "answer": "B",
+  "answer_text": "Basket",
   "rationale": "Apparatus 1 is the rotating basket; Apparatus 2 is the paddle."
  },
  {
@@ -31536,11 +31984,27 @@
   "options": [
    {
     "label": "A",
-    "text": "NMT"
+    "text": "NMT 0.5%"
+   },
+   {
+    "label": "B",
+    "text": "NMT 0.8%"
+   },
+   {
+    "label": "C",
+    "text": "NMT 1.5%"
+   },
+   {
+    "label": "D",
+    "text": "NMT 2%"
+   },
+   {
+    "label": "E",
+    "text": "NMT 5%"
    }
   ],
-  "answer": "E",
-  "answer_text": "NMT 5%",
+  "answer": "B",
+  "answer_text": "NMT 0.8%",
   "rationale": "Based on the provided key (B). Standard USP limit is conventionally NMT 1.0%."
  },
  {
@@ -31571,8 +32035,8 @@
     "text": "Staphylococcus aureus"
    }
   ],
-  "answer": "E",
-  "answer_text": "Staphylococcus aureus",
+  "answer": "C",
+  "answer_text": "Escherichia coli",
   "rationale": "E. coli causes 75-90% of uncomplicated UTIs."
  },
  {
@@ -31603,8 +32067,8 @@
     "text": "Rabies virus"
    }
   ],
-  "answer": "E",
-  "answer_text": "Rabies virus",
+  "answer": "C",
+  "answer_text": "HIV",
   "rationale": "Human Immunodeficiency Virus destroys CD4+ T cells, leading to AIDS."
  },
  {
@@ -31635,8 +32099,8 @@
     "text": "Malassezia furfur"
    }
   ],
-  "answer": "E",
-  "answer_text": "Malassezia furfur",
+  "answer": "B",
+  "answer_text": "Candida albicans",
   "rationale": "C. albicans is the primary agent of oropharyngeal candidiasis."
  },
  {
@@ -31667,8 +32131,8 @@
     "text": "Peptidoglycan"
    }
   ],
-  "answer": "E",
-  "answer_text": "Peptidoglycan",
+  "answer": "C",
+  "answer_text": "Lipid A",
   "rationale": "Lipid A is the toxic component of lipopolysaccharide in Gram-negative bacteria."
  },
  {
@@ -31700,7 +32164,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Rabies virus D. Rotavirus",
+  "answer_text": "Rabies virus",
   "rationale": "Rabies infects the CNS, causing severe neurological symptoms including hydrophobia."
  },
  {
@@ -31731,8 +32195,8 @@
     "text": "Histoplasma capsulatum"
    }
   ],
-  "answer": "A",
-  "answer_text": "Candida albicans B. Malassezia furfur",
+  "answer": "B",
+  "answer_text": "Malassezia furfur",
   "rationale": "M. furfur is a lipophilic yeast that causes pityriasis/tinea versicolor."
  },
  {
@@ -31763,8 +32227,8 @@
     "text": "Helicobacter pylori"
    }
   ],
-  "answer": "E",
-  "answer_text": "Helicobacter pylori",
+  "answer": "D",
+  "answer_text": "Vibrio cholerae",
   "rationale": "Vibrio cholerae secretes cholera toxin causing massive watery diarrhea."
  },
  {
@@ -31796,7 +32260,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "HPV D. CMV",
+  "answer_text": "HPV",
   "rationale": "High-risk Human Papillomavirus strains, notably 16 and 18, drive cervical dysplasia."
  },
  {
@@ -31828,7 +32292,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Cryptococcus neoformans D. Histoplasma capsulatum",
+  "answer_text": "Cryptococcus neoformans",
   "rationale": "C. neoformans has a thick polysaccharide capsule acting as a major virulence factor."
  },
  {
@@ -31859,8 +32323,8 @@
     "text": "Pertussis"
    }
   ],
-  "answer": "E",
-  "answer_text": "Pertussis",
+  "answer": "B",
+  "answer_text": "Cholera",
   "rationale": "Cholera diarrhea is characterized by flecks of mucus resembling rice water."
  },
  {
@@ -31891,8 +32355,8 @@
     "text": "Bacillus cereus"
    }
   ],
-  "answer": "A",
-  "answer_text": "Clostridium tetani B. Clostridium difficile",
+  "answer": "B",
+  "answer_text": "Clostridium difficile",
   "rationale": "Antibiotic use alters gut flora, allowing C. difficile overgrowth and toxin production."
  },
  {
@@ -31924,7 +32388,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Diphtheria toxin D. Tetanospasmin",
+  "answer_text": "Diphtheria toxin",
   "rationale": "Diphtheria toxin and Pseudomonas Exotoxin A both ADP-ribosylate EF-2."
  },
  {
@@ -31955,8 +32419,8 @@
     "text": "Rotavirus"
    }
   ],
-  "answer": "E",
-  "answer_text": "Rotavirus",
+  "answer": "C",
+  "answer_text": "HIV",
   "rationale": "HIV is a retrovirus that reverse-transcribes its RNA genome into DNA."
  },
  {
@@ -31987,8 +32451,8 @@
     "text": "Malassezia furfur"
    }
   ],
-  "answer": "E",
-  "answer_text": "Malassezia furfur",
+  "answer": "B",
+  "answer_text": "Histoplasma capsulatum",
   "rationale": "Histoplasma capsulatum thrives in soil enriched with bird or bat guano."
  },
  {
@@ -32020,7 +32484,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Staphylococcus saprophyticus D. Streptococcus pyogenes",
+  "answer_text": "Staphylococcus saprophyticus",
   "rationale": "S. saprophyticus is naturally resistant to novobiocin, distinguishing it from S. epidermidis."
  },
  {
@@ -32051,8 +32515,8 @@
     "text": "HPV"
    }
   ],
-  "answer": "E",
-  "answer_text": "HPV",
+  "answer": "B",
+  "answer_text": "EBV",
   "rationale": "Epstein-Barr virus is the classic causative agent of heterophile-positive mono."
  },
  {
@@ -32124,7 +32588,7 @@
   "module": "SBE MOD 6",
   "category": "SBE",
   "number": 69,
-  "question": "Which viral family undergoes antigenic",
+  "question": "Which viral family undergoes antigenic shift due to segmented RNA genomes?",
   "options": [
    {
     "label": "A",
@@ -32147,9 +32611,9 @@
     "text": "Picornaviridae"
    }
   ],
-  "answer": "A",
-  "answer_text": "Retroviridae",
-  "rationale": "Influenza viruses belong to Orthomyxovirid septate hyphae?"
+  "answer": "C",
+  "answer_text": "Orthomyxoviridae",
+  "rationale": "Influenza viruses belong to Orthomyxoviridae and have 8 RNA segments."
  },
  {
   "id": "SBE_MOD_6_70",
@@ -32179,8 +32643,8 @@
     "text": "Aspergillus fumigatus"
    }
   ],
-  "answer": "A",
-  "answer_text": "Candida albicans B. Sporothrix schenckii",
+  "answer": "B",
+  "answer_text": "Sporothrix schenckii",
   "rationale": "S. schenckii is introduced subcutaneously via traumatic implantation, like thorn pricks."
  },
  {
@@ -32212,7 +32676,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Pseudomonas aeruginosa D. Klebsiella pneumoniae",
+  "answer_text": "Pseudomonas aeruginosa",
   "rationale": "P. aeruginosa produces pyocyanin and a characteristic grape-like scent."
  },
  {
@@ -32243,8 +32707,8 @@
     "text": "Coronavirus"
    }
   ],
-  "answer": "E",
-  "answer_text": "Coronavirus",
+  "answer": "B",
+  "answer_text": "RSV",
   "rationale": "Respiratory Syncytial Virus is the leading pathogen for infant bronchiolitis."
  },
  {
@@ -32275,8 +32739,8 @@
     "text": "Aspergillus fumigatus"
    }
   ],
-  "answer": "C",
-  "answer_text": "Histoplasma capsulatum D. Cryptococcus neoformans",
+  "answer": "D",
+  "answer_text": "Cryptococcus neoformans",
   "rationale": "India ink highlights the thick capsule of Cryptococcus as a clear halo."
  },
  {
@@ -32307,8 +32771,8 @@
     "text": "Streptolysin O"
    }
   ],
-  "answer": "E",
-  "answer_text": "Streptolysin O",
+  "answer": "B",
+  "answer_text": "M protein",
   "rationale": "M protein is the major antiphagocytic component of Group A Strep."
  },
  {
@@ -32339,8 +32803,8 @@
     "text": "CMV"
    }
   ],
-  "answer": "A",
-  "answer_text": "Parvovirus B. Rubella virus",
+  "answer": "B",
+  "answer_text": "Rubella virus",
   "rationale": "Rubella, or German measles, is known for its mild maculopapular rash and teratogenicity."
  },
  {
@@ -32371,8 +32835,8 @@
     "text": "Rhizopus spp."
    }
   ],
-  "answer": "E",
-  "answer_text": "Rhizopus spp.",
+  "answer": "A",
+  "answer_text": "Candida albicans",
   "rationale": "C. albicans forms yeast, pseudohyphae, and true hyphae."
  },
  {
@@ -32403,8 +32867,8 @@
     "text": "Moraxella catarrhalis"
    }
   ],
-  "answer": "E",
-  "answer_text": "Moraxella catarrhalis",
+  "answer": "B",
+  "answer_text": "Klebsiella pneumoniae",
   "rationale": "K. pneumoniae classically causes lobar aspiration pneumonia with currant jelly sputum."
  },
  {
@@ -32436,7 +32900,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "HSV and VZV D. HIV",
+  "answer_text": "HSV and VZV",
   "rationale": "Herpes simplex and Varicella-zoster establish latency in sensory ganglia."
  },
  {
@@ -32467,8 +32931,8 @@
     "text": "Sporotrichosis"
    }
   ],
-  "answer": "A",
-  "answer_text": "Aspergillosis B. Pneumocystosis",
+  "answer": "B",
+  "answer_text": "Pneumocystosis",
   "rationale": "Pneumocystis jirovecii causes PCP, a hallmark opportunistic infection in advanced HIV."
  },
  {
@@ -32499,8 +32963,8 @@
     "text": "Mycoplasma pneumoniae"
    }
   ],
-  "answer": "E",
-  "answer_text": "Mycoplasma pneumoniae",
+  "answer": "C",
+  "answer_text": "Klebsiella pneumoniae",
   "rationale": "The mucoid capsule of K. pneumoniae results in thick, bloody sputum."
  },
  {
@@ -32531,8 +32995,8 @@
     "text": "Demyelination of nerves"
    }
   ],
-  "answer": "A",
-  "answer_text": "Increased acetylcholine release B. Inhibition of acetylcholine release",
+  "answer": "B",
+  "answer_text": "Inhibition of acetylcholine release",
   "rationale": "Botulinum toxin blocks presynaptic acetylcholine release at the neuromuscular junction."
  },
  {
@@ -32627,9 +33091,9 @@
     "text": "Spherules with endospores"
    }
   ],
-  "answer": "A",
-  "answer_text": "Septate hyphae with acute-angle branching",
-  "rationale": "Mucormycosis, caused by fungi like Rhizop e-green pus and grape-like odor. Which ibition of protein synthesis?"
+  "answer": "B",
+  "answer_text": "Broad nonseptate hyphae",
+  "rationale": "Mucormycosis, caused by fungi like Rhizopus, features broad, ribbon-like, nonseptate hyphae."
  },
  {
   "id": "SBE_MOD_6_85",
@@ -32661,7 +33125,7 @@
   ],
   "answer": "D",
   "answer_text": "Lipoteichoic acid",
-  "rationale": "Based on the provided answer key (D). However, molecular mimicry in Rheumatic fever is stronglyattributed to M protein.86. Which viral characteristic allows influenza viruses to undergo antigenic shift?A. Reverse transcriptase B. RNA-dependent DNA polymeraseC. Segmented genome D. Cytoplasmic replicationE. Viral latencyRationale: The 8 RNA segments can reassort when multiple strains co-infect a cell, creating novel viruses.87. A neutropenic patient develops fungal pneumonia. Histology reveals septatehyphae branching at 45°. Which organism is MOST likely responsible?A. Candida albicans B. Rhizopus spp.C. Aspergillus fumigatus D. Cryptococcus neoformansE. Blastomyces dermatitidisRationale: Aspergillus is characterized by narrow, septate hyphae with acute-angle branching."
+  "rationale": "Based on the provided answer key (D). However, molecular mimicry in Rheumatic fever is stronglyattributed to M protein."
  },
  {
   "id": "SBE_MOD_6_86",
@@ -32723,9 +33187,9 @@
     "text": "Blastomyces dermatitidis"
    }
   ],
-  "answer": "A",
-  "answer_text": "Candida albicans",
-  "rationale": "Aspergillus is characterized by narrow, sep eeks later by migratory polyarthritis and T implicated in the pathogenesis?"
+  "answer": "C",
+  "answer_text": "Aspergillus fumigatus",
+  "rationale": "Aspergillus is characterized by narrow, septate hyphae with acute-angle branching."
  },
  {
   "id": "SBE_MOD_6_88",
@@ -32755,8 +33219,8 @@
     "text": "Hyaluronidase"
    }
   ],
-  "answer": "E",
-  "answer_text": "Hyaluronidase",
+  "answer": "D",
+  "answer_text": "Urease",
   "rationale": "H. pylori uses large amounts of urease to hydrolyze urea into ammonia and CO2."
  },
  {
@@ -32787,8 +33251,8 @@
     "text": "HSV-2"
    }
   ],
-  "answer": "A",
-  "answer_text": "EBV B. HHV-8",
+  "answer": "B",
+  "answer_text": "HHV-8",
   "rationale": "Human Herpesvirus 8 causes Kaposi sarcoma, a vascular tumor common in AIDS patients."
  },
  {
@@ -32819,8 +33283,8 @@
     "text": "Paracoccidioides brasiliensis"
    }
   ],
-  "answer": "A",
-  "answer_text": "Histoplasma capsulatum B. Blastomyces dermatitidis",
+  "answer": "B",
+  "answer_text": "Blastomyces dermatitidis",
   "rationale": "Blastomyces yeast cells are distinguished by their broad-based budding."
  },
  {
@@ -32892,7 +33356,7 @@
   "module": "SBE MOD 6",
   "category": "SBE",
   "number": 93,
-  "question": "Which fungal organism is urease-positi",
+  "question": "Which fungal organism is urease-positive and encapsulated?",
   "options": [
    {
     "label": "A",
@@ -32917,7 +33381,7 @@
   ],
   "answer": "C",
   "answer_text": "Cryptococcus neoformans",
-  "rationale": "C. neoformans is distinctively encapsulated iarrhea. Stool culture demonstrates a What is the mechanism of action of the"
+  "rationale": "C. neoformans is distinctively encapsulated and tests positive for urease."
  },
  {
   "id": "SBE_MOD_6_94",
@@ -32948,7 +33412,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Protein synthesis via EF-2 inhibition D. ATP synthesis",
+  "answer_text": "Protein synthesis via EF-2 inhibition",
   "rationale": "Diphtheria toxin halts protein synthesis by ADP-ribosylating Elongation Factor 2."
  },
  {
@@ -32980,8 +33444,8 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Rubella virus D. EBV",
-  "rationale": "The classic triad of congenital rubella syndrome includes cataracts, sensorineural deafness, and patent ductus arteriosus."
+  "answer_text": "Rubella virus",
+  "rationale": "The classic triad of congenital rubella syndrome includes cataracts, sensorineural deafness, andpatent ductus arteriosus."
  },
  {
   "id": "SBE_MOD_6_96",
@@ -33011,8 +33475,8 @@
     "text": "Acid-fastness"
    }
   ],
-  "answer": "E",
-  "answer_text": "Acid-fastness",
+  "answer": "B",
+  "answer_text": "Dimorphism",
   "rationale": "Sporothrix is thermally dimorphic; the yeast form spreads lymphaticly at body temperature."
  },
  {
@@ -33044,7 +33508,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "India ink preparation D. Wright stain",
+  "answer_text": "India ink preparation",
   "rationale": "India ink creates a negative stain effect, clearly outlining the thick Cryptococcus capsule."
  },
  {
@@ -33075,8 +33539,8 @@
     "text": "Reverse transcriptase"
    }
   ],
-  "answer": "A",
-  "answer_text": "Icosahedral capsid B. Helical nucleocapsid",
+  "answer": "B",
+  "answer_text": "Helical nucleocapsid",
   "rationale": "Rhabdoviruses like Rabies have a distinctive helical nucleocapsid tightly coiled into a bullet shape."
  },
  {
@@ -33108,7 +33572,7 @@
    }
   ],
   "answer": "C",
-  "answer_text": "Exotoxin-mediated cytokine release D. Direct bacterial invasion",
+  "answer_text": "Exotoxin-mediated cytokine release",
   "rationale": "TSST-1 is a superantigen exotoxin that causes massive, systemic cytokine release."
  },
  {
@@ -33141,6 +33605,6 @@
   ],
   "answer": "B",
   "answer_text": "Capsule",
-  "rationale": "The thick polysaccharide capsule of Crypto immune clearance. arrow-based budding and a thick ctor MOST contributes to immune evasion?"
+  "rationale": "The thick polysaccharide capsule of Cryptococcus is antiphagocytic and severely impairs hostimmune clearance."
  }
 ]
